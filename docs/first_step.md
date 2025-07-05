@@ -75,3 +75,42 @@ IPL-Insights-Dashboard/
 * Automate repetitive tasks in Python scripts to save time and avoid errors.
 * Log challenges and learnings in `PROJECT_JOURNEY.md` — recruiters love this insight!
 * Commit often with descriptive messages — your future self will thank you.
+
+## Learning Goals 
+
+| Goal                                  | How You'll Achieve It                                           |
+| ------------------------------------- | --------------------------------------------------------------- |
+| 🗃️ **Database Modeling**             | Designing tables, FKs, and relationships from messy CSVs        |
+| 🧼 **Data Cleaning & Transformation** | Convert list fields (like `team1_players`) to normalized format |
+| 💻 **ETL Pipelines**                  | Write scripts to parse, clean, and insert into DB               |
+| 🔍 **Complex Queries**                | Write joins, filters, aggregations                              |
+| 🧱 **Backend Foundation**             | Build it like a backend system: not just analysis               |
+
+---
+
+
+## 🔍 1. Match Insights Module
+    -Show winner, toss result, venue, city, eliminator status
+    -Filter by date, team, or venue
+    -Track player of the match history
+
+## 📊 2. Team Analytics
+    -List all teams
+    -Show team performance across matches
+    -Historical win/loss/draw record
+    -Toss win vs match win correlation
+
+## 🧑‍🎓 3. Player Profile Engine
+    -List of all players with details like:
+    -Batting & bowling styles
+    -Roles (e.g. all-rounder, bowler)
+    -DOB, image URL (for UI later)
+    -Player of match frequency
+
+## 🔗 4. Relational Complexity to Learn
+    -One player → many matches
+    -One match → 22 players
+    -One team → many players
+    -One match → toss winner → team
+
+## Basically: 🔁 Cross-linked relational model = beautiful DB learning
