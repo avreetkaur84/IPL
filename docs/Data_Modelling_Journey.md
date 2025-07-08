@@ -64,8 +64,8 @@ Now, I have to see if by making these entities my queries will work right or not
     4. team_id - foreign key
 
 
-## I thought, We Don’t Normalize Just to Remove Duplicates
-But, We Normalize To:
+### I thought, We Normalize Just to Remove Duplicates, but I was wrong
+As, We Normalize To:
 
     1. Make data retrieval faster and cleaner
     2. Allow efficient joins
