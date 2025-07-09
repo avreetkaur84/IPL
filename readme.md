@@ -39,7 +39,7 @@ Our schema is fully normalized and scalable. Key tables include:
 - `Team_Player_Season` (tracks seasonal team memberships)
 
 📌 **View ER Diagram**:  
-![ER Diagram](docs/er-diagram.png)
+![ER Diagram](docs/ER-Diagram.png)
 
 ---
 
