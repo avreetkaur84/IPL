@@ -12,22 +12,40 @@ CREATE TABLE Players (
 CREATE TABLE Teams (
     team_id SERIAL PRIMARY KEY,
     name VARCHAR(100) NOT NULL UNIQUE,
-    logo_url text NOT NULL
+    logo_url text 
 );
+
+CREATE TYPE toss_decision_enum AS ENUM ('bat', 'field');
+CREATE TYPE match_outcome_enum AS ENUM ('win', 'tie', 'no result');
+CREATE TYPE win_type_enum AS ENUM ('runs', 'wickets');
 
 CREATE TABLE Matches (
     match_id SERIAL PRIMARY KEY,
     date DATE NOT NULL,
     venue VARCHAR(500) NOT NULL,
     city VARCHAR(100) NOT NULL,
-    team1_id INT REFERENCES Teams(team_id), -- it is goign to be foreign key - team_id
+    team1_id INT REFERENCES Teams(team_id),
     team2 INT REFERENCES Teams(team_id),
-    toss_winner_id INT REFERENCES Teams(team_id), -- team_id -> not sure what to write
-    toss_decision , -- we can give enum here, as deciso can be either bating or bowling
-    match_result , -- what should we write in this, what details not sure
-    player_of_match INT, -- WE CAN HAVE PLAY_ID HERE 
+    toss_winner_id INT REFERENCES Teams(team_id), 
+    toss_decision toss_decision_enum NOT NULL, 
+    outcome match_outcome_enum NOT NULL,
+    winner_id INT REFERENCES Teams(team_id),
+    win_margin INT,
+    win_type win_type_enum,
+    player_of_match INT REFERENCES Players(player_id)
 );
 
--- info written in match data
--- match_number,team1,team2,match_date,toss_winner,toss_decision,result,eliminator,winner,player_of_match,venue,city,team1_players,team2_players
---335988,Deccan Chargers,Delhi Daredevils,2008-04-22,Deccan Chargers,bat,Win,NA,Delhi Daredevils,V Sehwag,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,"AC Gilchrist, Y Venugopal Rao, VVS Laxman, A Symonds, RG Sharma, Shahid Afridi, SB Bangar, AS Yadav, WPUJC Vaas, RP Singh, PP Ojha","G Gambhir, V Sehwag, S Dhawan, Shoaib Malik, KD Karthik, MK Tiwary, R Bhatia, MF Maharoof, Mohammad Asif, VY Mahesh, GD McGrath"
+CREATE TABLE Team_Player_Season (
+    team_player_season_id SERIAL PRIMARY KEY,
+    season_year INT NOT NULL,
+    player_id INT REFERENCES Players(player_id),
+    team_id INT REFERENCES Teams(team_id)
+);
+
+CREATE TABLE Match_Players (
+    match_player_id SERIAL PRIMARY KEY,
+    match_id INT REFERENCES Matches(match_id),
+    team_id INT REFERENCES Teams(team_id),
+    player_id INT REFERENCES Players(player_id),
+    is_playing BOOLEAN DEFAULT TRUE
+);

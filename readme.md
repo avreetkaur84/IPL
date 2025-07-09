@@ -1,79 +1,134 @@
-# IPL Insights Dashboard
+# 🏏 IPL Insights Dashboard
 
-## Overview
-IPL Insights Dashboard is a data-driven project that leverages detailed IPL datasets to provide meaningful insights into teams, players, and matches.  
-The project focuses on building a robust PostgreSQL database backend and scalable ETL pipelines to transform raw IPL data into actionable information.
+## 📌 Overview
+**IPL Insights Dashboard** is a data-driven backend project designed to analyze, explore, and visualize insights from the Indian Premier League (IPL).  
+It leverages PostgreSQL for relational database modeling, SQL for data management, and Python for automation — built with clean architecture and scalability in mind.
 
-## Features
-- Comprehensive relational database design to manage IPL match, team, and player data  
-- ETL scripts for automated data extraction, cleaning, and loading from CSV and JSON sources  
-- Exploratory data analysis with Jupyter notebooks for deep data understanding  
-- Modular structure for easy extension: future phases include ball-by-ball analysis and machine learning integration  
+---
 
-## Data Sources
-- `Match_Info.csv`: Summary of IPL matches, including results and player highlights  
-- `teams_info.csv`: Metadata for IPL teams  
-- `players_details.csv`: Player profiles with roles, playing styles, and demographics  
-- *(Future)* Ball-by-ball match data for granular performance insights
+## 🚀 Features
 
-## Repository Structure
-```
+- 🧠 **Normalized PostgreSQL Schema** for IPL matches, players, teams, and seasons  
+- 🔄 **ETL Pipelines** to transform raw IPL CSV files into structured relational data  
+- 📈 **Jupyter Notebooks** for exploratory analysis and data validation  
+- 🗂️ **ER Diagram** representing all entity relationships  
+- 🧱 Modular design — perfect for expanding into ML models and dashboards
 
+---
+
+## 📂 Data Sources
+
+| File               | Description                                      |
+|--------------------|--------------------------------------------------|
+| `Match_Info.csv`   | Match-level data: date, venue, teams, outcome    |
+| `teams_info.csv`   | Team metadata (name, logo, etc.)                 |
+| `players_details.csv` | Player info: name, style, role, and birthdate |
+
+> 💡 More granular ball-by-ball data to be integrated later.
+
+---
+
+## 🧱 Database Schema
+
+Our schema is fully normalized and scalable. Key tables include:
+
+- `Players`
+- `Teams`
+- `Matches`
+- `Match_Players` (join table for match participation)
+- `Team_Player_Season` (tracks seasonal team memberships)
+
+📌 **View ER Diagram**:  
+![ER Diagram](docs/er-diagram.png)
+
+---
+
+## 📁 Repository Structure
+
+```bash
 IPL-Insights-Dashboard/
-├── data/                  # Raw IPL datasets
-├── notebooks/             # Data exploration and visualization notebooks
-├── src/                   # ETL scripts and database interaction code
-├── docs/                  # Documentation and project notes
-├── requirements.txt       # Python dependencies
-└── README.md              # This file
-
+├── data/                  # Raw IPL datasets (CSV)
+├── docs/                  # ER diagram, design documents
+├── notebooks/             # Data analysis notebooks (Jupyter)
+├── notes/                 # Conceptual learning notes (DBMS, SQL, design)
+├── sql/                   # SQL schema + insert scripts
+│   ├── 01-schema.sql
+│   ├── 02-load-data.sql
+│   └── 03-test-queries.sql
+├── .env                   # PostgreSQL credentials (not committed)
+├── .gitignore             
+├── readme.md              # You are here 😄
 ````
-
-## Getting Started
-
-1. **Clone the repository:**  
-   ```bash
-   git clone https://github.com/yourusername/IPL-Insights-Dashboard.git
-````
-
-2. **Install dependencies:**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Prepare the database:**
-
-   * Set up PostgreSQL locally or on a server.
-   * Create necessary tables (see `docs/DATABASE_SCHEMA.md`).
-
-4. **Load data:**
-
-   * Place IPL CSV files into `/data`.
-   * Run ETL scripts in `/src` to populate the database.
-
-5. **Explore data:**
-
-   * Use Jupyter notebooks in `/notebooks` to analyze and visualize IPL stats.
-
-## Future Work
-
-* Incorporate ball-by-ball data for in-depth player performance analysis
-* Develop a frontend dashboard for interactive visualization
-* Integrate machine learning models for predictions and player performance insights
-
-## Contributions
-
-Contributions, suggestions, and bug reports are welcome! Please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
-*Built with passion by Avreet — turning data into cricketing gold.*
+## 🛠️ Getting Started
 
+1. **Clone the Repository**
+
+```bash
+git clone https://github.com/yourusername/IPL-Insights-Dashboard.git
 ```
 
+2. **Set Up PostgreSQL**
+
+```bash
+# Create user and database manually via psql
+create user ipl_user with encrypted password 'yourpassword';
+create database ipl_dashboard owner ipl_user;
+```
+
+3. **Initialize the Database**
+
+```bash
+psql -U ipl_user -d ipl_dashboard -f sql/01-schema.sql
+```
+
+4. **Load the Data (Coming Soon)**
+
+```bash
+psql -U ipl_user -d ipl_dashboard -f sql/02-load-data.sql
+```
+
+5. **Explore**
+
+* Use Jupyter notebooks in `/notebooks/` to perform queries and build visualizations.
+
 ---
+
+## 🧠 Learning Goals
+
+This project is also a **learning sandbox** to:
+
+* Master real-world database design
+* Understand SQL deeply through PostgreSQL
+* Practice CLI-based DB operations and schema evolution
+* Apply backend data modeling best practices
+
+---
+
+## 🛣️ Future Roadmap
+
+* 🔎 Ball-by-ball match integration
+* 📊 Build a frontend dashboard using React or Next.js
+* 🤖 Add machine learning models for player ranking/prediction
+* ☁️ Move database to cloud (e.g., Supabase / AWS RDS)
+
+---
+
+## 🤝 Contributions
+
+PRs, ideas, feedback — all are welcome!
+Let’s make this a resourceful platform for learning and IPL data exploration.
+
+---
+
+## 📄 License
+
+MIT License — free to use, fork, and build upon.
+
+---
+
+> 🧠 *Built by Avreet — turning IPL chaos into queryable calm.*
+
+```
