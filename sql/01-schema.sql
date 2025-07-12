@@ -65,3 +65,20 @@ ALTER TABLE Matches RENAME COLUMN team2 TO team2_id;
 
 
 \copy Matches(date, venue, city, team1_id, team2_id, toss_winner_id, toss_decision, outcome, winner_id, win_margin, win_type, player_of_match) FROM 'C:/Users/hp/Desktop/IPL/notebooks/EDA/cleaned_matches.csv' DELIMITER ',' CSV HEADER;
+
+ALTER TABLE Match_Players ADD COLUMN season_year INT;
+
+
+UPDATED TABLE - 
+CREATE TABLE Match_Players (
+    match_player_id SERIAL PRIMARY KEY,
+    match_id INT REFERENCES Matches(match_id),
+    team_id INT REFERENCES Teams(team_id),
+    player_id INT REFERENCES Players(player_id),
+    is_playing BOOLEAN DEFAULT TRUE,
+    season_year INT
+);
+
+DROP TABLE IF EXISTS Team_Player_Season;
+
+\copy Match_Players(match_id, team_id, player_id, season_year, is_playing) FROM 'C:/Users/hp/Desktop/IPL/notebooks/EDA/cleaned_match_players.csv' DELIMITER ',' CSV HEADER;
