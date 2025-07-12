@@ -1,0 +1,1170 @@
+date,venue,city,team1_id,team2_id,toss_winner_id,toss_decision,outcome,winner_id,win_margin,win_type,player_of_match
+2008-04-22,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,18,14,18,bat,win,14,,,
+2010-03-18,M Chinnaswamy Stadium,Bangalore,17,6,17,field,win,17,,,
+2024-05-10,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,16,2,2,field,win,16,,,54
+2008-04-18,M Chinnaswamy Stadium,Bangalore,17,,17,field,win,,,,
+2016-05-29,M Chinnaswamy Stadium,Bangalore,17,8,8,bat,win,8,,,
+2025-04-05,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,6,5,5,field,win,6,,,
+2025-05-01,"Sawai Mansingh Stadium, Jaipur",Jaipur,1,6,6,field,win,1,,,
+2011-04-14,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,18,17,17,field,win,18,,,
+2024-05-26,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,8,,8,bat,win,,,,101
+2013-05-15,Wankhede Stadium,Mumbai,1,6,6,field,win,1,,,
+2012-04-15,Eden Gardens,Kolkata,,13,,field,win,13,,,88
+2022-05-20,"Brabourne Stadium, Mumbai",Mumbai,2,6,2,bat,win,6,,,189
+2024-04-02,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,15,7,7,field,win,15,,,128
+2010-03-19,Feroz Shah Kotla,Delhi,14,2,14,bat,win,2,,,
+2020-10-15,Sharjah Cricket Stadium,Unknown,17,13,17,bat,win,13,,,107
+2023-04-04,"Arun Jaitley Stadium, Delhi",Delhi,3,16,16,field,win,16,,,67
+2013-05-09,Subrata Roy Sahara Stadium,Pune,9,,,bat,win,,,,
+2013-04-23,M Chinnaswamy Stadium,Bangalore,17,9,9,field,win,17,,,
+2023-03-31,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,2,16,16,field,win,16,,,64
+2015-04-17,Wankhede Stadium,Mumbai,1,2,1,bat,win,2,,,
+2010-03-20,Brabourne Stadium,Mumbai,1,17,1,bat,win,17,,,
+2023-05-21,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,17,16,16,field,win,16,,,54
+2020-10-29,Dubai International Cricket Stadium,Unknown,,2,2,field,win,2,,,1
+2020-09-19,Sheikh Zayed Stadium,Abu Dhabi,1,2,2,field,win,2,,,
+2023-04-08,"Wankhede Stadium, Mumbai",Mumbai,1,2,2,field,win,2,,,10
+2017-04-24,Wankhede Stadium,Mumbai,1,19,1,field,win,19,,,
+2021-04-13,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,1,,,field,win,1,,,165
+2019-04-22,Sawai Mansingh Stadium,Jaipur,6,3,3,field,win,3,,,27
+2024-03-24,"Sawai Mansingh Stadium, Jaipur",Jaipur,6,15,6,bat,win,6,,,187
+2022-05-03,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,16,5,16,bat,win,5,,,176
+2018-04-17,Wankhede Stadium,Mumbai,1,17,17,field,win,1,,,151
+2021-04-14,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,17,8,8,field,win,17,,,225
+2023-04-24,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,3,8,3,bat,win,3,,,43
+2016-05-06,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,11,8,field,win,8,,,246
+2012-04-17,Sawai Mansingh Stadium,Jaipur,6,18,18,bat,win,6,,,
+2010-03-14,Eden Gardens,Kolkata,,17,,field,win,,,,
+2011-05-22,M Chinnaswamy Stadium,Bangalore,17,2,17,field,win,17,,,
+2020-10-21,Sheikh Zayed Stadium,Abu Dhabi,,17,,bat,win,17,,,226
+2013-04-29,Wankhede Stadium,Mumbai,1,13,1,bat,win,1,,,151
+2010-04-17,Eden Gardens,Kolkata,,6,6,bat,win,,,,257
+2021-10-07,Sharjah Cricket Stadium,Sharjah,,6,6,field,win,,,,131
+2023-04-28,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,15,5,5,field,win,15,,,126
+2025-05-20,"Arun Jaitley Stadium, Delhi",Delhi,2,6,6,field,win,6,,,
+2018-05-12,Arun Jaitley Stadium,Delhi,14,17,17,field,win,17,,,
+2010-04-08,M Chinnaswamy Stadium,Bangalore,17,18,18,field,win,18,,,
+2009-05-14,Kingsmead,Durban,1,6,6,bat,win,6,,,
+2012-04-21,"MA Chidambaram Stadium, Chepauk",Chennai,2,6,6,bat,win,2,,,211
+2010-03-28,"Sardar Patel Stadium, Motera",Ahmedabad,6,2,6,bat,win,6,,,
+2016-04-22,Maharashtra Cricket Association Stadium,Pune,12,17,12,field,win,17,,,
+2011-05-20,Wankhede Stadium,Mumbai,1,6,1,bat,win,6,,,
+2009-04-29,Kingsmead,Durban,13,1,13,bat,win,13,,,
+2011-04-15,Sawai Mansingh Stadium,Jaipur,6,,,field,win,,,,
+2018-04-14,Wankhede Stadium,Mumbai,1,14,14,field,win,14,,,106
+2020-09-27,Sharjah Cricket Stadium,Unknown,13,6,6,field,win,6,,,187
+2012-05-27,"MA Chidambaram Stadium, Chepauk",Chennai,,2,2,bat,win,,,,
+2010-04-07,Sawai Mansingh Stadium,Jaipur,6,13,13,bat,win,6,,,
+2010-04-11,Feroz Shah Kotla,Delhi,14,13,14,bat,win,13,,,137
+2022-05-12,"Wankhede Stadium, Mumbai",Mumbai,2,1,1,field,win,1,,,
+2021-04-10,"Wankhede Stadium, Mumbai",Mumbai,2,3,3,field,win,3,,,162
+2010-03-20,"Sardar Patel Stadium, Motera",Ahmedabad,6,,6,bat,win,6,,,
+2014-05-15,"Sardar Patel Stadium, Motera",Ahmedabad,6,14,14,field,win,6,,,16
+2016-05-18,M Chinnaswamy Stadium,Bangalore,17,13,13,field,win,17,,,223
+2024-03-26,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,2,16,16,field,win,2,,,7
+2020-11-01,Dubai International Cricket Stadium,Unknown,,6,6,field,win,,,,236
+2025-04-30,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,2,5,5,field,win,5,,,81
+2009-05-21,SuperSport Park,Centurion,17,18,17,bat,win,17,,,89
+2018-04-13,M.Chinnaswamy Stadium,Bengaluru,13,17,17,field,win,17,,,78
+2018-05-07,Rajiv Gandhi International Stadium,Hyderabad,8,17,17,field,win,8,,,76
+2020-10-03,Sharjah Cricket Stadium,Unknown,3,,,field,win,3,,,81
+2011-04-08,"MA Chidambaram Stadium, Chepauk",Chennai,2,,2,bat,win,2,,,
+2024-04-28,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,2,8,8,field,win,2,,,1
+2010-04-03,"MA Chidambaram Stadium, Chepauk",Chennai,2,6,2,bat,win,2,,,
+2024-04-19,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,2,15,15,field,win,15,,,107
+2017-05-13,Eden Gardens,Kolkata,,1,,field,win,1,,,
+2022-04-29,"Maharashtra Cricket Association Stadium, Pune",Pune,15,5,5,field,win,15,,,122
+2009-04-18,Newlands,Cape Town,2,1,2,field,win,1,,,
+2021-04-23,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,1,5,5,field,win,5,,,107
+2020-10-10,Sheikh Zayed Stadium,Abu Dhabi,,13,,bat,win,,,,222
+2013-05-11,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,8,13,field,win,8,,,
+2017-04-15,Eden Gardens,Kolkata,,8,8,field,win,,,,
+2022-03-27,"Dr DY Patil Sports Academy, Mumbai",Mumbai,17,5,5,field,win,5,,,
+2014-05-25,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,14,13,field,win,13,,,
+2010-04-12,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,18,17,17,field,win,18,,,
+2022-04-03,"Brabourne Stadium, Mumbai",Mumbai,5,2,2,field,win,5,,,172
+2024-04-28,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,16,7,7,field,win,7,,,220
+2014-05-07,Feroz Shah Kotla,Delhi,14,,14,bat,win,,,,
+2008-05-11,Sawai Mansingh Stadium,Jaipur,6,14,6,field,win,6,,,
+2023-04-08,"Barsapara Cricket Stadium, Guwahati",Guwahati,6,3,3,field,win,6,,,198
+2020-10-31,Dubai International Cricket Stadium,Unknown,3,1,1,field,win,1,,,142
+2024-04-07,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,15,16,15,bat,win,15,,,129
+2016-05-12,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,14,14,field,win,14,,,
+2013-05-19,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,,,bat,win,8,,,
+2010-04-07,Eden Gardens,Kolkata,,14,,bat,win,,,,
+2020-10-13,Dubai International Cricket Stadium,Unknown,2,8,2,bat,win,2,,,10
+2013-04-06,Feroz Shah Kotla,Delhi,14,6,6,bat,win,6,,,
+2018-04-24,Wankhede Stadium,Mumbai,8,1,1,field,win,8,,,64
+2022-05-08,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,2,3,3,field,win,2,,,26
+2019-05-02,Wankhede Stadium,Mumbai,1,8,1,bat,tie,,,,136
+2014-04-26,Sheikh Zayed Stadium,Abu Dhabi,6,17,6,field,win,6,,,
+2022-05-15,"Brabourne Stadium, Mumbai",Mumbai,6,15,6,bat,win,6,,,191
+2008-05-04,Dr DY Patil Sports Academy,Mumbai,1,14,14,field,win,1,,,
+2013-04-03,Eden Gardens,Kolkata,,14,,field,win,,,,88
+2012-04-28,"MA Chidambaram Stadium, Chepauk",Chennai,2,13,13,bat,win,13,,,
+2025-03-25,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,5,16,16,field,win,5,,,81
+2020-09-28,Dubai International Cricket Stadium,Unknown,17,1,1,field,tie,,,,
+2011-04-18,Nehru Stadium,Kochi,10,2,10,field,win,10,,,
+2021-09-28,Sharjah Cricket Stadium,Sharjah,3,,,field,win,,,,88
+2023-04-02,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,1,17,17,field,win,17,,,211
+2008-05-06,"MA Chidambaram Stadium, Chepauk",Chennai,2,18,18,field,win,18,,,
+2025-04-15,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,5,,5,bat,win,5,,,194
+2023-04-22,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,16,15,16,bat,win,16,,,72
+2015-04-22,M Chinnaswamy Stadium,Bangalore,17,2,17,field,win,2,,,
+2023-04-11,"Arun Jaitley Stadium, Delhi",Delhi,3,1,1,field,win,1,,,151
+2019-04-25,Eden Gardens,Kolkata,,6,6,field,win,6,,,
+2023-05-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,8,15,8,bat,win,15,,,116
+2017-04-14,Saurashtra Cricket Association Stadium,Rajkot,11,19,11,field,win,11,,,
+2011-05-22,Eden Gardens,Kolkata,,1,1,field,win,1,,,
+2019-05-05,Wankhede Stadium,Mumbai,,1,1,field,win,1,,,134
+2025-04-04,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,15,1,1,field,win,15,,,
+2011-05-09,Sawai Mansingh Stadium,Jaipur,6,2,6,field,win,2,,,
+2018-05-20,Arun Jaitley Stadium,Delhi,14,1,14,bat,win,14,,,118
+2019-05-04,M.Chinnaswamy Stadium,Bengaluru,8,17,17,field,win,17,,,197
+2016-05-07,M Chinnaswamy Stadium,Bangalore,17,12,17,field,win,17,,,223
+2014-04-25,Dubai International Cricket Stadium,Unknown,2,1,1,bat,win,2,,,72
+2011-04-23,Feroz Shah Kotla,Delhi,14,13,13,field,win,14,,,50
+2022-04-16,"Brabourne Stadium, Mumbai",Mumbai,15,1,1,field,win,15,,,107
+2011-05-15,Himachal Pradesh Cricket Association Stadium,Dharamsala,13,14,14,field,win,13,,,137
+2016-05-10,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,12,8,8,bat,win,8,,,210
+2024-04-25,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,7,8,7,bat,win,7,,,227
+2020-10-22,Dubai International Cricket Stadium,Unknown,6,8,8,field,win,8,,,89
+2015-04-20,Feroz Shah Kotla,Delhi,14,,,field,win,,,,78
+2011-05-05,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,18,14,14,field,win,14,,,
+2011-04-20,Eden Gardens,Kolkata,,10,,field,win,10,,,
+2025-05-29,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",New Chandigarh,5,7,7,field,win,7,,,102
+2018-04-23,Arun Jaitley Stadium,Delhi,13,14,14,field,win,13,,,
+2012-04-13,Eden Gardens,Kolkata,,6,6,bat,win,,,,
+2008-05-31,Wankhede Stadium,Mumbai,2,13,13,bat,win,2,,,
+2014-05-05,"Sardar Patel Stadium, Motera",Ahmedabad,6,,,field,win,6,,,
+2010-03-12,Dr DY Patil Sports Academy,Mumbai,18,,18,field,win,,,,
+2013-04-21,Feroz Shah Kotla,Delhi,14,1,1,bat,win,14,,,
+2019-03-24,Eden Gardens,Kolkata,8,,,field,win,,,,95
+2016-05-25,Feroz Shah Kotla,Delhi,8,,,field,win,8,,,
+2017-05-05,M Chinnaswamy Stadium,Bangalore,17,13,17,field,win,13,,,207
+2024-03-23,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,3,5,5,field,win,5,,,166
+2008-05-17,Sawai Mansingh Stadium,Jaipur,6,17,17,field,win,6,,,
+2011-04-22,Wankhede Stadium,Mumbai,1,2,2,field,win,1,,,
+2012-05-03,Subrata Roy Sahara Stadium,Pune,9,1,1,bat,win,1,,,
+2008-05-05,M Chinnaswamy Stadium,Bangalore,17,13,13,field,win,13,,,
+2011-05-04,Dr DY Patil Sports Academy,Mumbai,9,1,9,field,win,1,,,
+2014-05-20,Eden Gardens,Kolkata,,2,,field,win,,,,
+2020-10-05,Dubai International Cricket Stadium,Unknown,3,17,17,field,win,3,,,43
+2019-04-10,Wankhede Stadium,Mumbai,13,1,1,field,win,1,,,
+2020-10-27,Dubai International Cricket Stadium,Unknown,8,3,3,field,win,8,,,65
+2024-03-23,"Eden Gardens, Kolkata",Kolkata,,8,8,field,win,,,,95
+2012-05-08,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,18,13,18,field,win,13,,,
+2017-04-08,M.Chinnaswamy Stadium,Bengaluru,17,14,17,bat,win,17,,,
+2018-05-04,Holkar Cricket Stadium,Indore,13,1,1,field,win,1,,,158
+2017-05-14,Maharashtra Cricket Association Stadium,Pune,19,13,19,field,win,19,,,257
+2012-04-19,Feroz Shah Kotla,Delhi,14,18,18,bat,win,14,,,
+2015-05-14,Wankhede Stadium,Mumbai,1,,,field,win,1,,,134
+2016-04-10,Eden Gardens,Kolkata,,14,,field,win,,,,95
+2012-04-12,"MA Chidambaram Stadium, Chepauk",Chennai,2,17,17,bat,win,2,,,211
+2017-05-01,Maharashtra Cricket Association Stadium,Pune,19,11,19,field,win,19,,,
+2017-04-05,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,17,17,field,win,8,,,
+2019-03-24,Wankhede Stadium,Mumbai,3,1,1,field,win,3,,,27
+2019-04-13,Wankhede Stadium,Mumbai,1,6,6,field,win,6,,,193
+2016-04-24,Saurashtra Cricket Association Stadium,Rajkot,11,17,17,bat,win,11,,,223
+2022-05-29,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,6,16,6,bat,win,16,,,134
+2021-10-07,Dubai International Cricket Stadium,Dubai,2,5,5,field,win,5,,,107
+2021-04-15,"Wankhede Stadium, Mumbai",Mumbai,3,6,6,field,win,6,,,257
+2016-05-17,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,12,14,12,field,win,12,,,
+2020-10-23,Sharjah Cricket Stadium,Unknown,2,1,1,field,win,1,,,191
+2021-10-15,Dubai International Cricket Stadium,Dubai,2,,,field,win,2,,,211
+2021-04-29,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,,3,3,field,win,3,,,47
+2016-04-16,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,,8,bat,win,,,,
+2013-05-18,M Chinnaswamy Stadium,Bangalore,17,2,2,field,win,17,,,223
+2012-04-21,Feroz Shah Kotla,Delhi,14,9,14,field,win,9,,,
+2025-05-26,"Sawai Mansingh Stadium, Jaipur",Jaipur,1,5,5,field,win,5,,,
+2008-05-27,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,18,2,18,bat,win,2,,,
+2011-04-13,Dr DY Patil Sports Academy,Mumbai,9,10,10,bat,win,9,,,
+2017-04-21,Eden Gardens,Kolkata,,11,11,field,win,11,,,
+2025-04-20,"Wankhede Stadium, Mumbai",Mumbai,2,1,1,field,win,1,,,151
+2022-04-02,"Dr DY Patil Sports Academy, Mumbai",Mumbai,6,1,1,field,win,6,,,193
+2018-04-28,Maharashtra Cricket Association Stadium,Pune,2,1,1,field,win,1,,,151
+2022-05-27,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,17,6,6,field,win,6,,,193
+2013-05-01,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,1,1,bat,win,8,,,46
+2016-05-01,Maharashtra Cricket Association Stadium,Pune,12,1,1,field,win,1,,,151
+2019-04-13,Punjab Cricket Association IS Bindra Stadium,Chandigarh,13,17,17,field,win,17,,,
+2010-04-24,Dr DY Patil Sports Academy,Mumbai,17,18,18,bat,win,17,,,
+2016-04-30,Feroz Shah Kotla,Delhi,14,,,field,win,14,,,
+2009-05-02,St George's Park,Port Elizabeth,18,6,18,bat,win,6,,,
+2011-04-27,Nehru Stadium,Kochi,10,18,10,field,win,18,,,46
+2021-04-22,"Wankhede Stadium, Mumbai",Mumbai,6,17,17,field,win,17,,,121
+2009-04-18,Newlands,Cape Town,17,6,17,bat,win,17,,,
+2014-05-12,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,1,8,bat,win,1,,,
+2012-05-14,Eden Gardens,Kolkata,,2,2,field,win,2,,,
+2018-05-10,Arun Jaitley Stadium,Delhi,14,8,14,bat,win,8,,,162
+2018-05-06,Holkar Cricket Stadium,Indore,6,13,13,field,win,13,,,105
+2023-04-25,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,16,1,1,field,win,16,,,59
+2021-04-24,"Wankhede Stadium, Mumbai",Mumbai,,6,6,field,win,6,,,
+2014-05-23,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,6,6,field,win,13,,,
+2008-05-19,M Chinnaswamy Stadium,Bangalore,17,14,14,field,win,14,,,
+2009-04-27,St George's Park,Port Elizabeth,,1,1,bat,win,1,,,
+2012-05-22,Subrata Roy Sahara Stadium,Pune,14,,,bat,win,,,,
+2012-04-07,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,18,2,18,field,win,2,,,10
+2012-04-16,Wankhede Stadium,Mumbai,1,14,14,field,win,14,,,
+2016-05-19,Green Park,Kanpur,11,,11,field,win,11,,,
+2008-04-25,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,1,1,field,win,13,,,
+2012-05-09,Wankhede Stadium,Mumbai,1,17,17,field,win,17,,,
+2025-04-18,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,7,5,5,field,win,5,,,139
+2017-05-02,Feroz Shah Kotla,Delhi,14,8,14,field,win,14,,,80
+2016-05-09,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,13,17,13,field,win,17,,,
+2023-04-20,"Arun Jaitley Stadium, Delhi",Delhi,,3,3,field,win,3,,,46
+2018-04-12,Rajiv Gandhi International Stadium,Hyderabad,1,8,8,field,win,8,,,64
+2009-05-16,New Wanderers Stadium,Johannesburg,18,,18,field,win,18,,,151
+2008-05-24,"MA Chidambaram Stadium, Chepauk",Chennai,2,6,6,bat,win,6,,,
+2023-04-19,"Sawai Mansingh Stadium, Jaipur",Jaipur,15,6,6,field,win,15,,,126
+2024-05-11,"Eden Gardens, Kolkata",Kolkata,,1,1,field,win,,,,103
+2015-05-22,JSCA International Stadium Complex,Ranchi,2,17,2,field,win,2,,,
+2019-04-28,Eden Gardens,Kolkata,,1,1,field,win,,,,95
+2008-05-17,Feroz Shah Kotla,Delhi,14,13,14,bat,win,13,,,
+2017-04-08,Holkar Cricket Stadium,Indore,13,19,13,field,win,13,,,225
+2008-04-27,Dr DY Patil Sports Academy,Mumbai,1,18,18,field,win,18,,,
+2012-04-29,Wankhede Stadium,Mumbai,1,18,1,field,win,1,,,
+2016-05-21,Green Park,Kanpur,11,1,11,field,win,11,,,
+2012-04-18,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,,13,bat,win,,,,
+2024-05-17,"Wankhede Stadium, Mumbai",Mumbai,15,1,1,field,win,15,,,123
+2017-05-10,Green Park,Kanpur,11,14,14,field,win,14,,,81
+2013-05-02,"MA Chidambaram Stadium, Chepauk",Chennai,2,13,2,bat,win,2,,,
+2013-05-19,Subrata Roy Sahara Stadium,Pune,9,14,9,bat,win,9,,,
+2023-04-01,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,15,3,3,field,win,15,,,133
+2019-04-07,Sawai Mansingh Stadium,Jaipur,6,,,field,win,,,,
+2016-04-19,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,13,,,field,win,,,,
+2015-05-07,Eden Gardens,Kolkata,,14,,bat,win,,,,137
+2015-05-05,Wankhede Stadium,Mumbai,1,14,14,bat,win,1,,,
+2017-04-20,Holkar Cricket Stadium,Indore,13,1,1,field,win,1,,,193
+2010-04-04,Eden Gardens,Kolkata,,13,,bat,win,13,,,
+2018-04-29,M.Chinnaswamy Stadium,Bengaluru,17,,,field,win,,,,
+2017-04-29,Maharashtra Cricket Association Stadium,Pune,19,17,17,field,win,19,,,218
+2019-04-07,M.Chinnaswamy Stadium,Bengaluru,17,3,3,field,win,3,,,176
+2008-04-20,Eden Gardens,Kolkata,,18,18,bat,win,,,,
+2012-05-05,Eden Gardens,Kolkata,,9,,bat,win,,,,88
+2013-05-11,Subrata Roy Sahara Stadium,Pune,9,1,9,bat,win,1,,,
+2023-04-20,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,17,5,5,field,win,17,,,226
+2023-05-09,"Wankhede Stadium, Mumbai",Mumbai,17,1,1,field,win,1,,,158
+2020-11-03,Sharjah Cricket Stadium,Unknown,1,8,8,field,win,8,,,
+2024-05-05,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,2,5,5,field,win,2,,,10
+2022-03-26,"Wankhede Stadium, Mumbai",Mumbai,2,,,field,win,,,,78
+2012-04-27,Feroz Shah Kotla,Delhi,14,1,1,field,win,14,,,
+2015-05-03,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,1,1,bat,win,1,,,
+2010-03-13,Brabourne Stadium,Mumbai,1,6,1,bat,win,1,,,
+2011-04-17,Dr DY Patil Sports Academy,Mumbai,9,14,14,field,win,14,,,
+2025-04-01,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,15,5,5,field,win,5,,,
+2013-05-14,"MA Chidambaram Stadium, Chepauk",Chennai,2,14,2,bat,win,2,,,6
+2011-04-30,Eden Gardens,Kolkata,,13,,field,win,,,,
+2020-10-25,Dubai International Cricket Stadium,Unknown,17,2,17,bat,win,2,,,1
+2020-10-11,Dubai International Cricket Stadium,Unknown,8,6,8,bat,win,6,,,74
+2017-04-16,M Chinnaswamy Stadium,Bangalore,17,19,17,field,win,19,,,
+2020-10-24,Dubai International Cricket Stadium,Unknown,13,8,8,field,win,13,,,
+2015-05-04,Eden Gardens,Kolkata,,8,8,field,win,,,,78
+2009-05-13,Kingsmead,Durban,18,14,18,field,win,14,,,
+2009-05-16,St George's Park,Port Elizabeth,2,1,1,bat,win,2,,,
+2025-04-21,"Eden Gardens, Kolkata",Kolkata,16,,,field,win,16,,,54
+2014-04-17,Sharjah Cricket Stadium,Unknown,14,17,17,field,win,17,,,194
+2025-04-07,"Wankhede Stadium, Mumbai",Mumbai,7,1,1,field,win,7,,,227
+2014-05-22,Eden Gardens,Kolkata,,17,17,field,win,,,,
+2020-10-28,Sheikh Zayed Stadium,Abu Dhabi,17,1,1,field,win,1,,,158
+2010-03-15,"Sardar Patel Stadium, Motera",Ahmedabad,6,14,14,field,win,14,,,
+2024-05-12,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,6,2,6,bat,win,2,,,21
+2023-04-17,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2,17,17,field,win,2,,,26
+2019-04-01,Punjab Cricket Association IS Bindra Stadium,Chandigarh,13,3,3,field,win,13,,,166
+2014-05-03,Wankhede Stadium,Mumbai,1,13,13,bat,win,1,,,
+2008-05-11,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,18,,,bat,win,,,,
+2013-04-11,M Chinnaswamy Stadium,Bangalore,17,,17,field,win,17,,,
+2014-05-14,Barabati Stadium,Cuttack,,1,,field,win,,,,
+2021-10-11,Sharjah Cricket Stadium,Sharjah,17,,17,bat,win,,,,88
+2015-04-19,M Chinnaswamy Stadium,Bangalore,17,1,17,field,win,1,,,
+2016-05-08,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,1,8,1,field,win,8,,,
+2020-11-05,Dubai International Cricket Stadium,Unknown,1,3,3,field,win,1,,,136
+2008-05-04,Sawai Mansingh Stadium,Jaipur,6,2,2,bat,win,6,,,
+2017-05-03,Eden Gardens,Kolkata,,19,19,field,win,19,,,255
+2010-03-13,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,14,14,field,win,14,,,
+2020-11-02,Sheikh Zayed Stadium,Abu Dhabi,17,3,3,field,win,3,,,41
+2024-04-04,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,16,5,5,field,win,5,,,180
+2024-04-09,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,8,5,5,field,win,8,,,
+2011-05-15,Holkar Cricket Stadium,Indore,10,6,10,field,win,10,,,
+2013-04-16,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,,,field,win,13,,,
+2016-05-07,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,13,14,14,field,win,13,,,126
+2017-04-30,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,13,14,13,field,win,13,,,207
+2021-09-20,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,17,,17,bat,win,,,,103
+2018-04-27,Arun Jaitley Stadium,Delhi,14,,,field,win,14,,,81
+2023-05-15,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,16,8,8,field,win,16,,,54
+2014-04-18,Sheikh Zayed Stadium,Abu Dhabi,2,13,2,bat,win,13,,,225
+2013-05-15,JSCA International Stadium Complex,Ranchi,,9,,field,win,9,,,89
+2012-05-01,Barabati Stadium,Cuttack,18,9,18,bat,win,18,,,
+2023-04-30,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,2,5,2,bat,win,5,,,26
+2011-05-21,Himachal Pradesh Cricket Association Stadium,Dharamsala,13,18,13,field,win,18,,,162
+2019-04-06,MA Chidambaram Stadium,Chennai,2,13,2,bat,win,2,,,
+2011-05-10,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,1,1,field,win,13,,,
+2009-04-27,Kingsmead,Durban,2,18,18,field,win,18,,,
+2012-04-12,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,9,13,field,win,13,,,
+2020-10-30,Sheikh Zayed Stadium,Abu Dhabi,13,6,6,field,win,6,,,
+2017-05-17,M Chinnaswamy Stadium,Bangalore,8,,,field,win,,,,
+2019-04-11,Sawai Mansingh Stadium,Jaipur,6,2,2,field,win,2,,,6
+2021-10-08,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,1,8,1,bat,win,1,,,142
+2025-03-24,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,15,3,3,field,win,3,,,
+2018-04-11,Sawai Mansingh Stadium,Jaipur,6,14,14,field,win,6,,,187
+2015-05-17,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,1,8,bat,win,1,,,
+2022-05-24,"Eden Gardens, Kolkata",Kolkata,6,16,16,field,win,16,,,60
+2017-05-06,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,19,8,field,win,19,,,257
+2017-04-22,Maharashtra Cricket Association Stadium,Pune,19,8,19,field,win,19,,,6
+2015-05-09,Eden Gardens,Kolkata,,13,13,bat,win,,,,95
+2024-04-06,"Sawai Mansingh Stadium, Jaipur",Jaipur,7,6,6,field,win,6,,,193
+2009-05-12,SuperSport Park,Centurion,17,,17,field,win,17,,,
+2014-05-18,JSCA International Stadium Complex,Ranchi,2,17,2,bat,win,17,,,
+2017-04-17,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,13,13,field,win,8,,,246
+2015-04-09,"MA Chidambaram Stadium, Chepauk",Chennai,2,14,14,field,win,2,,,
+2016-04-14,Saurashtra Cricket Association Stadium,Rajkot,11,12,12,bat,win,11,,,
+2008-05-03,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,,13,bat,win,13,,,
+2016-05-22,Shaheed Veer Narayan Singh International Stadium,Raipur,14,17,17,field,win,17,,,223
+2018-05-13,Wankhede Stadium,Mumbai,1,6,6,field,win,6,,,193
+2022-04-09,"Dr DY Patil Sports Academy, Mumbai",Mumbai,2,8,8,field,win,8,,,238
+2019-05-08,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,8,3,3,field,win,3,,,27
+2021-04-20,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,1,3,1,bat,win,3,,,118
+2018-04-26,Rajiv Gandhi International Stadium,Hyderabad,8,13,13,field,win,8,,,
+2020-10-25,Sheikh Zayed Stadium,Abu Dhabi,1,6,1,bat,win,6,,,
+2016-05-15,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,13,8,13,bat,win,8,,,
+2023-05-08,"Eden Gardens, Kolkata",Kolkata,5,,5,bat,win,,,,95
+2021-10-01,Dubai International Cricket Stadium,Dubai,,5,5,field,win,5,,,107
+2013-04-23,Feroz Shah Kotla,Delhi,14,13,13,field,win,13,,,
+2023-05-20,"Arun Jaitley Stadium, Delhi",Delhi,2,3,2,bat,win,2,,,1
+2017-04-28,Eden Gardens,Kolkata,,14,,field,win,,,,
+2022-05-15,"Wankhede Stadium, Mumbai",Mumbai,2,16,2,bat,win,16,,,65
+2019-04-21,M.Chinnaswamy Stadium,Bengaluru,17,2,2,field,win,17,,,
+2023-04-14,"Eden Gardens, Kolkata",Kolkata,8,,,field,win,8,,,52
+2008-04-30,Feroz Shah Kotla,Delhi,14,17,17,field,win,14,,,
+2014-04-23,Dubai International Cricket Stadium,Unknown,6,2,6,field,win,2,,,10
+2024-04-15,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,8,7,7,field,win,8,,,243
+2025-05-24,"Sawai Mansingh Stadium, Jaipur",Jaipur,5,3,3,field,win,3,,,19
+2008-04-19,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,2,2,bat,win,2,,,
+2017-05-07,M Chinnaswamy Stadium,Bangalore,17,,,field,win,,,,88
+2012-05-19,Himachal Pradesh Cricket Association Stadium,Dharamsala,13,14,14,field,win,14,,,78
+2010-03-31,Feroz Shah Kotla,Delhi,14,6,14,bat,win,14,,,222
+2014-04-26,Sheikh Zayed Stadium,Abu Dhabi,,13,,field,win,13,,,207
+2024-05-15,"Barsapara Cricket Stadium, Guwahati",Guwahati,6,5,6,bat,win,5,,,166
+2021-10-08,Dubai International Cricket Stadium,Dubai,3,17,17,field,win,17,,,83
+2021-04-29,"Arun Jaitley Stadium, Delhi",Delhi,6,1,1,field,win,1,,,110
+2013-04-19,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,13,13,bat,win,8,,,
+2010-04-13,"MA Chidambaram Stadium, Chepauk",Chennai,2,,,bat,win,2,,,189
+2008-04-26,M Chinnaswamy Stadium,Bangalore,17,6,6,field,win,6,,,
+2011-04-12,Sawai Mansingh Stadium,Jaipur,6,14,14,bat,win,6,,,
+2022-05-18,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,15,,15,bat,win,15,,,110
+2023-05-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,8,17,17,field,win,17,,,223
+2017-04-12,Wankhede Stadium,Mumbai,1,8,1,field,win,1,,,136
+2024-05-19,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,5,8,5,bat,win,8,,,238
+2016-04-15,Feroz Shah Kotla,Delhi,14,13,14,field,win,14,,,118
+2017-04-26,Maharashtra Cricket Association Stadium,Pune,19,,,field,win,,,,
+2012-04-04,"MA Chidambaram Stadium, Chepauk",Chennai,2,1,1,field,win,1,,,
+2025-04-28,"Sawai Mansingh Stadium, Jaipur",Jaipur,16,6,6,field,win,6,,,
+2020-09-21,Dubai International Cricket Stadium,Unknown,17,8,8,field,win,17,,,194
+2012-05-01,Sawai Mansingh Stadium,Jaipur,6,14,6,bat,win,14,,,
+2010-04-11,Sawai Mansingh Stadium,Jaipur,6,1,6,field,win,1,,,
+2017-05-01,Wankhede Stadium,Mumbai,1,17,17,bat,win,1,,,151
+2020-10-06,Sheikh Zayed Stadium,Abu Dhabi,1,6,1,bat,win,1,,,158
+2015-04-28,"MA Chidambaram Stadium, Chepauk",Chennai,2,,,field,win,2,,,
+2022-04-13,"Maharashtra Cricket Association Stadium, Pune",Pune,5,1,1,field,win,5,,,239
+2009-05-05,Kingsmead,Durban,14,,,bat,win,14,,,
+2020-10-12,Sharjah Cricket Stadium,Unknown,17,,17,bat,win,17,,,
+2013-05-10,Feroz Shah Kotla,Delhi,14,17,14,field,win,17,,,257
+2016-04-30,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,17,17,field,win,8,,,50
+2014-05-19,"Sardar Patel Stadium, Motera",Ahmedabad,6,1,1,bat,win,1,,,
+2010-04-06,"MA Chidambaram Stadium, Chepauk",Chennai,2,1,2,bat,win,2,,,
+2022-05-07,"Wankhede Stadium, Mumbai",Mumbai,5,6,5,bat,win,6,,,198
+2022-04-17,"Maharashtra Cricket Association Stadium, Pune",Pune,2,16,16,field,win,16,,,60
+2009-05-07,SuperSport Park,Centurion,2,13,2,bat,win,2,,,
+2022-05-04,"Maharashtra Cricket Association Stadium, Pune",Pune,17,2,2,field,win,17,,,173
+2016-05-02,M Chinnaswamy Stadium,Bangalore,17,,,field,win,,,,95
+2013-04-09,M Chinnaswamy Stadium,Bangalore,17,8,8,bat,win,17,,,223
+2021-10-03,Sharjah Cricket Stadium,Sharjah,17,5,17,bat,win,17,,,225
+2010-03-16,M Chinnaswamy Stadium,Bangalore,17,13,13,bat,win,17,,,
+2008-06-01,Dr DY Patil Sports Academy,Mumbai,2,6,6,field,win,6,,,
+2024-04-23,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,2,15,15,field,win,15,,,126
+2011-05-19,Dr DY Patil Sports Academy,Mumbai,9,,,field,win,,,,
+2009-05-17,New Wanderers Stadium,Johannesburg,18,13,18,field,win,13,,,
+2020-11-06,Sheikh Zayed Stadium,Abu Dhabi,17,8,8,field,win,8,,,76
+2011-04-16,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,18,13,13,field,win,13,,,
+2015-04-25,"MA Chidambaram Stadium, Chepauk",Chennai,2,13,2,bat,win,2,,,
+2012-05-16,Wankhede Stadium,Mumbai,1,,1,field,win,,,,88
+2022-05-07,"Maharashtra Cricket Association Stadium, Pune",Pune,15,,,field,win,15,,,190
+2020-10-24,Sheikh Zayed Stadium,Abu Dhabi,,3,3,field,win,,,,103
+2010-04-16,Himachal Pradesh Cricket Association Stadium,Dharamsala,13,18,18,field,win,18,,,151
+2020-10-17,Sharjah Cricket Stadium,Unknown,2,3,2,bat,win,3,,,162
+2013-04-30,Subrata Roy Sahara Stadium,Pune,9,2,2,bat,win,2,,,6
+2019-03-30,Punjab Cricket Association IS Bindra Stadium,Chandigarh,1,13,13,field,win,13,,,239
+2025-05-21,"Wankhede Stadium, Mumbai",Mumbai,1,3,3,field,win,1,,,158
+2021-10-13,Sharjah Cricket Stadium,Sharjah,3,,,field,win,,,,87
+2019-04-24,M.Chinnaswamy Stadium,Bengaluru,17,13,13,field,win,17,,,
+2024-04-01,"Wankhede Stadium, Mumbai",Mumbai,1,6,6,field,win,6,,,191
+2018-05-20,Maharashtra Cricket Association Stadium,Pune,13,2,2,field,win,2,,,53
+2022-04-10,"Brabourne Stadium, Mumbai",Mumbai,3,,,field,win,3,,,36
+2016-05-21,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,12,13,13,bat,win,12,,,6
+2018-04-08,Eden Gardens,Kolkata,17,,,field,win,,,,88
+2011-05-06,M Chinnaswamy Stadium,Bangalore,17,13,13,field,win,17,,,
+2017-04-10,Holkar Cricket Stadium,Indore,13,17,17,bat,win,13,,,43
+2024-03-25,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,5,7,7,field,win,7,,,223
+2020-10-11,Sheikh Zayed Stadium,Abu Dhabi,3,1,3,bat,win,1,,,110
+2009-05-03,St George's Park,Port Elizabeth,13,,,bat,win,13,,,
+2021-04-26,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,5,,,field,win,,,,
+2010-03-28,Dr DY Patil Sports Academy,Mumbai,18,1,18,field,win,1,,,
+2010-04-10,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,18,2,2,bat,win,18,,,
+2022-04-19,"Dr DY Patil Sports Academy, Mumbai",Mumbai,17,15,15,field,win,17,,,211
+2017-04-16,Wankhede Stadium,Mumbai,1,11,1,field,win,1,,,93
+2022-05-13,"Brabourne Stadium, Mumbai",Mumbai,5,17,17,field,win,5,,,164
+2025-04-20,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,5,7,7,field,win,7,,,223
+2022-03-30,"Dr DY Patil Sports Academy, Mumbai",Mumbai,,17,17,field,win,17,,,
+2009-05-04,Buffalo Park,East London,2,18,2,bat,win,2,,,6
+2017-04-23,Eden Gardens,Kolkata,,17,17,field,win,,,,
+2020-09-20,Dubai International Cricket Stadium,Unknown,3,13,13,field,tie,,,,126
+2017-04-30,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,,,field,win,8,,,50
+2008-04-24,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,18,6,6,field,win,6,,,
+2008-05-13,Eden Gardens,Kolkata,,14,,bat,win,,,,
+2014-05-07,Barabati Stadium,Cuttack,13,2,2,field,win,13,,,225
+2011-05-14,M Chinnaswamy Stadium,Bangalore,17,,17,field,win,17,,,
+2009-04-26,Newlands,Cape Town,13,6,13,bat,win,13,,,
+2021-09-21,Dubai International Cricket Stadium,Dubai,6,5,5,field,win,6,,,57
+2012-04-06,Wankhede Stadium,Mumbai,1,9,1,field,win,9,,,
+2009-05-20,Kingsmead,Durban,2,13,2,bat,win,2,,,
+2021-10-05,Sharjah Cricket Stadium,Sharjah,6,1,1,field,win,1,,,
+2025-05-04,"Eden Gardens, Kolkata",Kolkata,,6,,bat,win,,,,95
+2023-05-03,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,15,2,2,field,no result,,,,
+2015-05-20,Maharashtra Cricket Association Stadium,Pune,17,6,17,bat,win,17,,,
+2009-05-22,SuperSport Park,Centurion,14,18,18,field,win,18,,,
+2013-04-27,Sawai Mansingh Stadium,Jaipur,6,8,8,bat,win,6,,,
+2008-05-18,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,18,1,18,field,win,1,,,
+2014-05-25,Wankhede Stadium,Mumbai,1,6,1,field,win,1,,,
+2014-05-05,Feroz Shah Kotla,Delhi,14,2,2,field,win,2,,,
+2021-04-21,"Wankhede Stadium, Mumbai",Mumbai,2,,,field,win,2,,,211
+2012-04-22,Wankhede Stadium,Mumbai,1,13,1,bat,win,13,,,
+2011-05-07,Wankhede Stadium,Mumbai,1,14,14,field,win,1,,,
+2019-04-06,Rajiv Gandhi International Stadium,Hyderabad,1,8,8,field,win,1,,,221
+2010-03-22,Brabourne Stadium,Mumbai,1,,,bat,win,1,,,
+2010-04-15,"MA Chidambaram Stadium, Chepauk",Chennai,2,14,2,bat,win,14,,,
+2015-04-13,M Chinnaswamy Stadium,Bangalore,17,8,8,field,win,8,,,50
+2021-04-16,"Wankhede Stadium, Mumbai",Mumbai,5,2,2,field,win,2,,,4
+2016-05-16,Eden Gardens,Kolkata,,17,17,field,win,17,,,223
+2009-05-14,Kingsmead,Durban,17,2,2,bat,win,17,,,
+2024-04-17,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,16,3,3,field,win,3,,,27
+2008-05-15,Feroz Shah Kotla,Delhi,14,18,18,field,win,14,,,118
+2024-05-02,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,8,6,8,bat,win,8,,,246
+2015-04-18,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,8,14,14,bat,win,14,,,
+2016-04-28,Wankhede Stadium,Mumbai,1,,1,field,win,1,,,151
+2008-05-03,M Chinnaswamy Stadium,Bangalore,17,18,18,field,win,17,,,
+2018-05-01,M.Chinnaswamy Stadium,Bengaluru,17,1,1,field,win,17,,,
+2012-04-15,M Chinnaswamy Stadium,Bangalore,17,6,6,bat,win,6,,,16
+2014-04-29,Sheikh Zayed Stadium,Abu Dhabi,,6,6,bat,tie,,,,
+2022-04-18,"Brabourne Stadium, Mumbai",Mumbai,6,,,field,win,6,,,194
+2017-05-07,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,13,11,11,field,win,11,,,
+2024-03-28,"Sawai Mansingh Stadium, Jaipur",Jaipur,6,3,3,field,win,6,,,203
+2021-04-28,"Arun Jaitley Stadium, Delhi",Delhi,8,2,8,bat,win,2,,,1
+2014-04-24,Sharjah Cricket Stadium,Unknown,17,,17,field,win,,,,
+2014-05-10,Feroz Shah Kotla,Delhi,14,8,8,field,win,8,,,
+2011-04-29,Sawai Mansingh Stadium,Jaipur,6,1,6,field,win,6,,,
+2024-04-13,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,5,6,6,field,win,6,,,197
+2009-05-07,SuperSport Park,Centurion,17,6,6,field,win,6,,,
+2016-04-24,Maharashtra Cricket Association Stadium,Pune,12,,,field,win,,,,158
+2022-04-12,"Dr DY Patil Sports Academy, Mumbai",Mumbai,2,17,17,field,win,2,,,7
+2018-05-23,Eden Gardens,Kolkata,,6,6,field,win,,,,95
+2008-05-16,Wankhede Stadium,Mumbai,1,,1,field,win,1,,,
+2022-05-09,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,,1,1,field,win,,,,136
+2014-04-18,Sheikh Zayed Stadium,Abu Dhabi,8,6,6,field,win,6,,,16
+2013-04-06,"MA Chidambaram Stadium, Chepauk",Chennai,2,1,1,bat,win,1,,,
+2008-05-08,Feroz Shah Kotla,Delhi,14,2,2,field,win,2,,,6
+2008-04-20,Wankhede Stadium,Mumbai,1,17,1,bat,win,17,,,
+2025-04-22,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,15,3,3,field,win,3,,,40
+2015-04-26,Feroz Shah Kotla,Delhi,14,17,17,field,win,17,,,
+2018-05-12,Holkar Cricket Stadium,Indore,,13,13,field,win,,,,88
+2021-09-26,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,,2,,bat,win,2,,,10
+2023-05-07,"Sawai Mansingh Stadium, Jaipur",Jaipur,6,8,6,bat,win,8,,,251
+2015-05-02,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,2,2,field,win,8,,,50
+2011-04-17,Eden Gardens,Kolkata,,6,,field,win,,,,
+2024-05-05,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,,15,15,field,win,,,,88
+2014-05-24,M Chinnaswamy Stadium,Bangalore,17,2,2,field,win,2,,,6
+2013-05-09,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,6,6,field,win,6,,,
+2015-05-16,Brabourne Stadium,Mumbai,6,,6,bat,win,6,,,
+2013-04-05,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,9,9,field,win,8,,,118
+2015-04-08,Eden Gardens,Kolkata,,1,,field,win,,,,
+2013-05-02,Subrata Roy Sahara Stadium,Pune,9,17,17,bat,win,17,,,
+2008-05-18,Eden Gardens,Kolkata,,2,,bat,win,2,,,
+2012-05-19,Subrata Roy Sahara Stadium,Pune,9,,,bat,win,,,,
+2023-05-14,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,2,,2,bat,win,,,,100
+2019-05-03,Punjab Cricket Association IS Bindra Stadium,Chandigarh,13,,,field,win,,,,54
+2009-04-19,Newlands,Cape Town,14,13,14,field,win,14,,,
+2012-04-23,Sawai Mansingh Stadium,Jaipur,6,17,6,field,win,17,,,
+2022-05-17,"Wankhede Stadium, Mumbai",Mumbai,8,1,1,field,win,8,,,255
+2011-05-27,"MA Chidambaram Stadium, Chepauk",Chennai,17,1,1,field,win,17,,,
+2012-05-25,"MA Chidambaram Stadium, Chepauk",Chennai,14,2,14,field,win,2,,,
+2013-05-04,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,14,14,bat,win,8,,,
+2015-05-17,M Chinnaswamy Stadium,Bangalore,17,14,17,field,no result,,,,
+2025-03-28,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,7,2,2,field,win,7,,,227
+2016-05-27,Feroz Shah Kotla,Delhi,11,8,8,field,win,8,,,50
+2012-04-08,Sawai Mansingh Stadium,Jaipur,6,,,field,win,6,,,
+2019-04-09,MA Chidambaram Stadium,Chennai,,2,2,field,win,2,,,4
+2014-04-22,Sharjah Cricket Stadium,Unknown,13,8,8,field,win,13,,,225
+2024-05-12,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,7,3,3,field,win,7,,,219
+2012-04-06,Sawai Mansingh Stadium,Jaipur,6,13,13,field,win,6,,,16
+2009-04-19,Newlands,Cape Town,18,,,bat,win,18,,,
+2010-03-19,Barabati Stadium,Cuttack,18,13,13,field,win,18,,,
+2010-04-04,Feroz Shah Kotla,Delhi,14,17,14,bat,win,14,,,
+2015-05-19,Wankhede Stadium,Mumbai,2,1,1,bat,win,1,,,
+2022-04-04,"Dr DY Patil Sports Academy, Mumbai",Mumbai,15,8,8,field,win,15,,,190
+2020-10-20,Dubai International Cricket Stadium,Unknown,3,13,3,bat,win,13,,,162
+2016-05-14,M Chinnaswamy Stadium,Bangalore,17,11,11,field,win,17,,,
+2015-04-11,Eden Gardens,Kolkata,,17,17,field,win,17,,,
+2014-04-21,Sheikh Zayed Stadium,Abu Dhabi,2,14,2,bat,win,2,,,
+2016-04-23,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,13,8,field,win,8,,,14
+2023-05-13,"Arun Jaitley Stadium, Delhi",Delhi,5,3,3,field,win,5,,,
+2015-05-01,Wankhede Stadium,Mumbai,1,6,6,field,win,1,,,
+2008-05-21,Wankhede Stadium,Mumbai,1,13,1,field,win,13,,,
+2019-03-26,Arun Jaitley Stadium,Delhi,3,2,3,bat,win,2,,,
+2010-03-29,Feroz Shah Kotla,Delhi,14,,14,bat,win,14,,,50
+2024-04-14,"Wankhede Stadium, Mumbai",Mumbai,2,1,1,field,win,2,,,15
+2017-04-07,Saurashtra Cricket Association Stadium,Rajkot,11,,,field,win,,,,
+2020-10-02,Dubai International Cricket Stadium,Unknown,8,2,8,bat,win,8,,,
+2012-05-06,Wankhede Stadium,Mumbai,1,2,1,field,win,1,,,
+2025-04-25,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,2,8,8,field,win,8,,,173
+2010-03-31,"MA Chidambaram Stadium, Chepauk",Chennai,2,17,17,bat,win,2,,,
+2015-04-14,"Sardar Patel Stadium, Motera",Ahmedabad,6,1,1,bat,win,6,,,
+2018-05-25,Eden Gardens,Kolkata,8,,,field,win,8,,,64
+2025-05-22,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,15,16,16,field,win,15,,,39
+2013-04-07,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,17,17,bat,tie,,,,
+2013-04-17,Sawai Mansingh Stadium,Jaipur,6,1,6,bat,win,6,,,16
+2010-03-26,"Sardar Patel Stadium, Motera",Ahmedabad,6,18,18,bat,win,6,,,
+2022-04-20,"Brabourne Stadium, Mumbai",Mumbai,5,3,3,field,win,3,,,36
+2019-04-21,Rajiv Gandhi International Stadium,Hyderabad,,8,8,field,win,8,,,29
+2025-04-11,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,2,,,field,win,,,,88
+2018-04-20,Maharashtra Cricket Association Stadium,Pune,2,6,6,field,win,2,,,
+2023-05-17,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,3,5,5,field,win,3,,,177
+2015-05-06,M Chinnaswamy Stadium,Bangalore,17,13,13,field,win,17,,,
+2008-05-14,Wankhede Stadium,Mumbai,1,2,1,field,win,1,,,
+2013-04-27,Wankhede Stadium,Mumbai,1,17,1,bat,win,1,,,
+2020-09-25,Dubai International Cricket Stadium,Unknown,3,2,2,field,win,3,,,47
+2022-03-28,"Wankhede Stadium, Mumbai",Mumbai,15,16,16,field,win,16,,,80
+2025-04-27,"Wankhede Stadium, Mumbai",Mumbai,1,15,15,field,win,1,,,220
+2023-05-14,"Sawai Mansingh Stadium, Jaipur",Jaipur,17,6,17,bat,win,17,,,
+2022-04-30,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,6,1,1,field,win,1,,,158
+2025-05-18,"Arun Jaitley Stadium, Delhi",Delhi,3,16,16,field,win,16,,,67
+2019-05-05,Punjab Cricket Association IS Bindra Stadium,Chandigarh,2,13,13,field,win,13,,,107
+2008-04-21,Sawai Mansingh Stadium,Jaipur,6,13,13,bat,win,6,,,
+2021-10-02,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,2,6,6,field,win,6,,,1
+2024-04-24,"Arun Jaitley Stadium, Delhi",Delhi,3,16,16,field,win,3,,,27
+2025-06-01,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,1,5,5,field,win,5,,,81
+2022-04-05,"Wankhede Stadium, Mumbai",Mumbai,6,17,17,field,win,17,,,222
+2015-04-15,Maharashtra Cricket Association Stadium,Pune,13,14,13,bat,win,14,,,239
+2018-05-14,Holkar Cricket Stadium,Indore,13,17,17,field,win,17,,,78
+2016-04-16,Wankhede Stadium,Mumbai,1,11,11,field,win,11,,,
+2019-03-31,Rajiv Gandhi International Stadium,Hyderabad,8,17,17,field,win,8,,,164
+2021-09-25,Sharjah Cricket Stadium,Sharjah,5,8,8,field,win,5,,,
+2015-04-19,"Sardar Patel Stadium, Motera",Ahmedabad,6,2,2,bat,win,6,,,16
+2022-05-14,"Maharashtra Cricket Association Stadium, Pune",Pune,,8,,bat,win,,,,95
+2021-09-23,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,1,,,field,win,,,,88
+2012-05-14,M Chinnaswamy Stadium,Bangalore,17,1,1,field,win,1,,,
+2015-04-18,Maharashtra Cricket Association Stadium,Pune,13,,,field,win,,,,95
+2009-05-19,New Wanderers Stadium,Johannesburg,17,14,14,bat,win,17,,,
+2025-05-25,"Arun Jaitley Stadium, Delhi",Delhi,8,,8,bat,win,8,,,245
+2009-04-21,Kingsmead,Durban,13,,,field,win,,,,
+2011-04-15,Wankhede Stadium,Mumbai,1,10,10,field,win,10,,,
+2017-04-29,Saurashtra Cricket Association Stadium,Rajkot,11,1,11,bat,tie,,,,122
+2024-04-26,"Eden Gardens, Kolkata",Kolkata,,5,5,field,win,5,,,164
+2011-04-09,Nehru Stadium,Kochi,10,17,10,bat,win,17,,,
+2010-04-02,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,17,13,bat,win,17,,,
+2025-04-19,"Sawai Mansingh Stadium, Jaipur",Jaipur,15,6,15,bat,win,15,,,190
+2016-05-20,Shaheed Veer Narayan Singh International Stadium,Raipur,14,8,14,field,win,14,,,
+2012-05-05,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,6,6,bat,win,6,,,
+2012-05-20,Sawai Mansingh Stadium,Jaipur,6,1,6,bat,win,1,,,
+2018-05-27,Wankhede Stadium,Mumbai,8,2,2,field,win,2,,,
+2014-05-09,M Chinnaswamy Stadium,Bangalore,17,13,17,field,win,13,,,207
+2014-04-25,Dubai International Cricket Stadium,Unknown,8,14,8,bat,win,8,,,
+2025-04-26,"Eden Gardens, Kolkata",Kolkata,5,,5,bat,no result,,,,
+2023-04-29,"Arun Jaitley Stadium, Delhi",Delhi,8,3,8,bat,win,8,,,39
+2023-04-02,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,6,8,8,field,win,6,,,193
+2017-04-17,Feroz Shah Kotla,Delhi,14,,14,bat,win,,,,
+2024-05-01,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,2,5,5,field,win,5,,,169
+2017-05-12,Feroz Shah Kotla,Delhi,14,19,14,bat,win,14,,,
+2009-04-23,Kingsmead,Durban,2,14,14,bat,win,14,,,
+2019-04-04,Arun Jaitley Stadium,Delhi,3,8,8,field,win,8,,,164
+2008-04-28,M Chinnaswamy Stadium,Bangalore,17,2,2,bat,win,2,,,6
+2022-04-23,"Brabourne Stadium, Mumbai",Mumbai,17,8,8,field,win,8,,,244
+2024-04-11,"Wankhede Stadium, Mumbai",Mumbai,7,1,1,field,win,1,,,136
+2015-05-09,Shaheed Veer Narayan Singh International Stadium,Raipur,14,8,8,bat,win,8,,,
+2016-04-25,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,13,1,13,field,win,1,,,
+2011-05-02,Feroz Shah Kotla,Delhi,14,10,10,field,win,10,,,
+2013-04-26,Eden Gardens,Kolkata,,13,13,bat,win,,,,
+2025-05-08,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,5,3,5,bat,no result,,,,
+2021-09-27,Dubai International Cricket Stadium,Dubai,6,8,6,bat,win,8,,,106
+2015-04-27,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,8,13,field,win,8,,,191
+2023-05-21,"Wankhede Stadium, Mumbai",Mumbai,8,1,1,field,win,1,,,219
+2023-05-07,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,16,15,15,field,win,16,,,54
+2025-05-03,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,7,2,2,field,win,7,,,152
+2019-05-10,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,3,2,2,field,win,2,,,211
+2025-05-18,"Sawai Mansingh Stadium, Jaipur",Jaipur,5,6,5,bat,win,5,,,169
+2009-05-17,OUTsurance Oval,Bloemfontein,14,6,14,bat,win,14,,,
+2010-03-16,Eden Gardens,Kolkata,,2,2,bat,win,2,,,6
+2009-05-23,New Wanderers Stadium,Johannesburg,17,2,17,field,win,17,,,89
+2024-03-31,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,3,2,3,bat,win,3,,,29
+2024-04-08,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,,2,2,field,win,2,,,10
+2009-05-15,OUTsurance Oval,Bloemfontein,14,13,13,field,win,13,,,
+2020-09-23,Sheikh Zayed Stadium,Abu Dhabi,1,,,field,win,1,,,151
+2016-04-29,Maharashtra Cricket Association Stadium,Pune,12,11,11,field,win,11,,,
+2023-05-03,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,5,1,1,field,win,1,,,142
+2022-04-14,"Dr DY Patil Sports Academy, Mumbai",Mumbai,16,6,6,field,win,16,,,134
+2017-04-09,Wankhede Stadium,Mumbai,1,,1,field,win,1,,,93
+2010-04-17,M Chinnaswamy Stadium,Bangalore,17,1,17,field,win,1,,,
+2023-05-16,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,15,1,1,field,win,15,,,126
+2014-04-19,Dubai International Cricket Stadium,Unknown,,14,,bat,win,14,,,
+2024-04-10,"Sawai Mansingh Stadium, Jaipur",Jaipur,6,16,16,field,win,16,,,64
+2008-04-29,Eden Gardens,Kolkata,,1,,bat,win,1,,,
+2025-04-02,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,7,16,16,field,win,16,,,226
+2023-04-15,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,15,5,5,field,win,5,,,182
+2015-05-10,Wankhede Stadium,Mumbai,1,17,17,bat,win,17,,,
+2015-04-30,Eden Gardens,Kolkata,,2,,field,win,,,,95
+2008-04-19,Feroz Shah Kotla,Delhi,14,6,6,bat,win,14,,,
+2018-05-06,Wankhede Stadium,Mumbai,1,,,field,win,1,,,134
+2011-04-11,Eden Gardens,Kolkata,,18,,bat,win,,,,
+2011-04-24,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,18,1,18,field,win,1,,,
+2019-04-14,Eden Gardens,Kolkata,,2,2,field,win,2,,,
+2014-05-27,Eden Gardens,Kolkata,13,,13,field,win,,,,78
+2025-05-07,"Eden Gardens, Kolkata",Kolkata,,2,,bat,win,2,,,63
+2014-05-20,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,17,17,bat,win,8,,,50
+2022-04-16,"Wankhede Stadium, Mumbai",Mumbai,17,3,3,field,win,17,,,222
+2021-09-28,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,5,1,1,field,win,1,,,
+2023-05-02,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,3,16,3,bat,win,3,,,80
+2014-05-03,Feroz Shah Kotla,Delhi,14,6,6,field,win,6,,,
+2023-04-16,"Wankhede Stadium, Mumbai",Mumbai,,1,1,field,win,1,,,87
+2018-04-19,Punjab Cricket Association IS Bindra Stadium,Chandigarh,13,8,13,bat,win,13,,,
+2025-03-29,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,16,1,1,field,win,16,,,209
+2012-05-12,Eden Gardens,Kolkata,,1,1,bat,win,1,,,151
+2023-05-06,"Arun Jaitley Stadium, Delhi",Delhi,17,3,17,bat,win,3,,,99
+2010-04-09,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,1,1,bat,win,13,,,
+2016-04-21,Saurashtra Cricket Association Stadium,Rajkot,11,8,8,field,win,8,,,246
+2009-05-09,De Beers Diamond Oval,Kimberley,18,13,13,field,win,13,,,
+2021-05-02,"Arun Jaitley Stadium, Delhi",Delhi,6,8,8,field,win,6,,,193
+2016-05-22,Eden Gardens,Kolkata,,8,8,field,win,,,,
+2010-03-25,M Chinnaswamy Stadium,Bangalore,17,14,17,field,win,14,,,
+2012-04-07,M Chinnaswamy Stadium,Bangalore,17,14,14,field,win,17,,,
+2013-05-06,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,17,13,field,win,13,,,60
+2014-04-16,Sheikh Zayed Stadium,Abu Dhabi,1,,,bat,win,,,,
+2021-05-02,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,5,3,3,field,win,3,,,239
+2024-05-24,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,8,6,6,field,win,8,,,253
+2017-05-09,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,13,,,field,win,13,,,72
+2013-05-01,Shaheed Veer Narayan Singh International Stadium,Raipur,14,,,bat,win,14,,,50
+2015-05-10,"MA Chidambaram Stadium, Chepauk",Chennai,2,6,2,bat,win,2,,,10
+2023-04-10,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,17,15,15,field,win,15,,,123
+2025-04-16,"Arun Jaitley Stadium, Delhi",Delhi,3,6,6,field,tie,,,,101
+2019-04-14,Rajiv Gandhi International Stadium,Hyderabad,3,8,8,field,win,3,,,
+2011-04-19,Feroz Shah Kotla,Delhi,14,18,18,bat,win,18,,,
+2022-04-07,"Dr DY Patil Sports Academy, Mumbai",Mumbai,3,15,15,field,win,15,,,110
+2023-04-09,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,16,,16,bat,win,,,,100
+2020-09-22,Sharjah Cricket Stadium,Unknown,6,2,2,field,win,6,,,187
+2025-06-03,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,7,5,5,field,win,7,,,122
+2013-05-14,M Chinnaswamy Stadium,Bangalore,17,13,13,field,win,13,,,
+2023-04-26,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,,17,17,field,win,,,,103
+2025-05-25,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,2,16,2,bat,win,2,,,135
+2009-05-06,SuperSport Park,Centurion,18,1,18,bat,win,18,,,151
+2013-04-07,Subrata Roy Sahara Stadium,Pune,9,13,9,bat,win,13,,,
+2016-05-01,Saurashtra Cricket Association Stadium,Rajkot,11,13,11,field,win,13,,,43
+2008-05-30,Wankhede Stadium,Mumbai,14,6,14,field,win,6,,,
+2020-11-10,Dubai International Cricket Stadium,Unknown,3,1,3,bat,win,1,,,191
+2020-09-24,Dubai International Cricket Stadium,Unknown,13,17,17,field,win,13,,,107
+2010-04-18,Himachal Pradesh Cricket Association Stadium,Dharamsala,13,2,2,field,win,2,,,6
+2023-04-23,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,17,6,6,field,win,17,,,225
+2022-04-28,"Wankhede Stadium, Mumbai",Mumbai,,3,3,field,win,3,,,36
+2018-04-22,Sawai Mansingh Stadium,Jaipur,1,6,1,bat,win,6,,,
+2013-04-14,Sawai Mansingh Stadium,Jaipur,6,13,6,field,win,6,,,
+2022-05-22,"Wankhede Stadium, Mumbai",Mumbai,8,5,8,bat,win,5,,,169
+2017-04-14,M Chinnaswamy Stadium,Bangalore,17,1,1,field,win,1,,,
+2018-04-22,Rajiv Gandhi International Stadium,Hyderabad,2,8,8,field,win,2,,,
+2015-05-04,"MA Chidambaram Stadium, Chepauk",Chennai,2,17,2,bat,win,2,,,
+2020-09-26,Sheikh Zayed Stadium,Abu Dhabi,8,,8,bat,win,,,,54
+2021-10-10,Dubai International Cricket Stadium,Dubai,3,2,2,field,win,2,,,1
+2019-04-12,Eden Gardens,Kolkata,,3,3,field,win,3,,,162
+2023-04-13,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,5,16,16,field,win,16,,,72
+2011-05-01,Sawai Mansingh Stadium,Jaipur,6,9,6,field,win,6,,,
+2019-03-29,Rajiv Gandhi International Stadium,Hyderabad,6,8,6,bat,win,8,,,64
+2013-04-28,Shaheed Veer Narayan Singh International Stadium,Raipur,14,9,9,field,win,14,,,50
+2011-04-27,Dr DY Patil Sports Academy,Mumbai,9,2,9,bat,win,2,,,
+2024-04-30,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,1,15,15,field,win,15,,,126
+2012-05-20,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,18,17,17,field,win,18,,,
+2024-03-24,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,16,1,1,field,win,16,,,67
+2017-05-13,Green Park,Kanpur,11,8,8,field,win,8,,,226
+2009-05-02,New Wanderers Stadium,Johannesburg,2,14,14,field,win,2,,,
+2025-04-03,"Eden Gardens, Kolkata",Kolkata,,8,8,field,win,,,,82
+2011-05-21,Feroz Shah Kotla,Delhi,14,9,14,bat,no result,,,,
+2012-05-07,Feroz Shah Kotla,Delhi,14,,14,bat,win,,,,
+2011-04-28,Feroz Shah Kotla,Delhi,14,,14,field,win,,,,
+2022-04-09,"Maharashtra Cricket Association Stadium, Pune",Pune,1,17,17,field,win,17,,,213
+2020-10-17,Dubai International Cricket Stadium,Unknown,6,17,6,bat,win,17,,,
+2011-05-08,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,9,13,bat,win,9,,,
+2011-05-02,Wankhede Stadium,Mumbai,1,13,13,field,win,1,,,
+2012-05-13,Sawai Mansingh Stadium,Jaipur,6,9,6,bat,win,6,,,
+2016-04-20,Wankhede Stadium,Mumbai,1,17,1,field,win,1,,,151
+2014-05-28,Brabourne Stadium,Mumbai,2,1,2,field,win,2,,,
+2018-05-05,Rajiv Gandhi International Stadium,Hyderabad,14,8,14,bat,win,8,,,64
+2025-04-09,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,16,6,6,field,win,16,,,67
+2014-04-28,Dubai International Cricket Stadium,Unknown,13,17,13,field,win,13,,,207
+2023-04-01,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,5,,,field,win,5,,,163
+2020-10-26,Sharjah Cricket Stadium,Unknown,,13,13,field,win,13,,,
+2017-04-23,Saurashtra Cricket Association Stadium,Rajkot,11,13,11,field,win,13,,,
+2012-04-09,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,18,1,18,bat,win,1,,,151
+2024-03-30,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,15,5,15,bat,win,15,,,128
+2012-04-10,Feroz Shah Kotla,Delhi,14,2,14,field,win,14,,,
+2017-05-08,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,1,1,bat,win,8,,,162
+2019-04-20,Sawai Mansingh Stadium,Jaipur,1,6,6,field,win,6,,,
+2012-05-13,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,18,18,bat,win,13,,,
+2019-04-23,MA Chidambaram Stadium,Chennai,8,2,2,field,win,2,,,
+2008-04-23,"MA Chidambaram Stadium, Chepauk",Chennai,2,1,1,field,win,2,,,
+2012-04-30,"MA Chidambaram Stadium, Chepauk",Chennai,2,,2,bat,win,,,,
+2023-05-11,"Eden Gardens, Kolkata",Kolkata,,6,6,field,win,6,,,198
+2015-05-02,M Chinnaswamy Stadium,Bangalore,17,,17,field,win,17,,,
+2025-03-26,"Barsapara Cricket Stadium, Guwahati",Guwahati,6,,,field,win,,,,110
+2011-05-16,Dr DY Patil Sports Academy,Mumbai,9,18,18,field,win,18,,,118
+2017-05-06,Feroz Shah Kotla,Delhi,14,1,14,field,win,1,,,
+2024-04-29,"Eden Gardens, Kolkata",Kolkata,3,,3,bat,win,,,,103
+2021-04-25,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,3,8,3,bat,tie,,,,47
+2009-05-18,SuperSport Park,Centurion,2,,2,bat,win,,,,
+2011-05-17,Himachal Pradesh Cricket Association Stadium,Dharamsala,13,17,13,bat,win,13,,,
+2025-04-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,3,16,16,field,win,16,,,193
+2025-03-22,"Eden Gardens, Kolkata",Kolkata,,7,7,field,win,7,,,122
+2025-04-23,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,8,1,1,field,win,1,,,191
+2008-05-20,Eden Gardens,Kolkata,,6,6,field,win,6,,,
+2025-04-24,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,7,6,6,field,win,7,,,
+2013-04-08,Sawai Mansingh Stadium,Jaipur,6,,,field,win,6,,,
+2022-04-24,"Wankhede Stadium, Mumbai",Mumbai,15,1,1,field,win,15,,,107
+2021-04-19,"Wankhede Stadium, Mumbai",Mumbai,2,6,6,field,win,2,,,2
+2021-10-03,Dubai International Cricket Stadium,Dubai,8,,8,bat,win,,,,54
+2010-04-18,Feroz Shah Kotla,Delhi,14,18,18,bat,win,18,,,
+2022-05-25,"Eden Gardens, Kolkata",Kolkata,17,15,15,field,win,17,,,227
+2019-04-03,Wankhede Stadium,Mumbai,1,2,2,field,win,1,,,134
+2013-04-11,Subrata Roy Sahara Stadium,Pune,9,6,6,bat,win,9,,,
+2012-04-24,Subrata Roy Sahara Stadium,Pune,9,14,9,bat,win,14,,,
+2018-04-09,Rajiv Gandhi International Stadium,Hyderabad,6,8,8,field,win,8,,,162
+2015-04-16,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,8,6,6,field,win,6,,,16
+2013-04-09,Wankhede Stadium,Mumbai,1,14,1,bat,win,1,,,222
+2015-04-21,"Sardar Patel Stadium, Motera",Ahmedabad,6,13,13,field,tie,,,,
+2020-11-01,Sheikh Zayed Stadium,Abu Dhabi,13,2,2,field,win,2,,,1
+2011-05-14,Wankhede Stadium,Mumbai,1,18,18,bat,win,18,,,118
+2022-05-10,"Maharashtra Cricket Association Stadium, Pune",Pune,16,15,16,bat,win,16,,,54
+2022-05-21,"Wankhede Stadium, Mumbai",Mumbai,3,1,1,field,win,1,,,136
+2022-05-01,"Maharashtra Cricket Association Stadium, Pune",Pune,2,8,8,field,win,2,,,1
+2012-04-08,Subrata Roy Sahara Stadium,Pune,9,13,9,bat,win,9,,,
+2008-05-01,Sawai Mansingh Stadium,Jaipur,6,,6,bat,win,6,,,
+2011-04-21,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,6,6,field,win,13,,,
+2025-04-17,"Wankhede Stadium, Mumbai",Mumbai,8,1,1,field,win,1,,,220
+2010-04-21,Dr DY Patil Sports Academy,Mumbai,17,1,1,bat,win,1,,,
+2025-05-06,"Wankhede Stadium, Mumbai",Mumbai,1,16,16,field,win,16,,,54
+2011-04-10,Feroz Shah Kotla,Delhi,14,1,14,bat,win,1,,,
+2018-04-29,Sawai Mansingh Stadium,Jaipur,8,6,8,bat,win,8,,,76
+2025-04-14,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,15,2,2,field,win,2,,,6
+2020-10-31,Sharjah Cricket Stadium,Unknown,17,8,8,field,win,8,,,207
+2024-04-16,"Eden Gardens, Kolkata",Kolkata,,6,6,field,win,6,,,193
+2011-04-16,"MA Chidambaram Stadium, Chepauk",Chennai,2,17,2,bat,win,2,,,
+2021-09-24,Sharjah Cricket Stadium,Sharjah,17,2,2,field,win,2,,,
+2010-03-21,"MA Chidambaram Stadium, Chepauk",Chennai,2,13,2,field,tie,,,,
+2017-05-16,Wankhede Stadium,Mumbai,1,19,1,field,win,19,,,259
+2013-04-24,Eden Gardens,Kolkata,,1,,bat,win,1,,,
+2010-04-22,Dr DY Patil Sports Academy,Mumbai,2,18,2,bat,win,2,,,
+2020-10-19,Sheikh Zayed Stadium,Abu Dhabi,2,6,2,bat,win,6,,,193
+2023-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,2,15,15,field,win,2,,,2
+2016-04-23,Feroz Shah Kotla,Delhi,14,1,1,field,win,14,,,187
+2009-04-26,St George's Park,Port Elizabeth,17,14,17,bat,win,14,,,
+2011-05-11,Sawai Mansingh Stadium,Jaipur,6,17,17,field,win,17,,,
+2024-05-09,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,7,5,5,field,win,7,,,223
+2017-04-15,Feroz Shah Kotla,Delhi,14,13,14,bat,win,14,,,
+2016-05-15,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,1,14,14,field,win,1,,,122
+2013-04-25,"MA Chidambaram Stadium, Chepauk",Chennai,2,8,8,bat,win,2,,,6
+2017-05-21,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,1,19,1,bat,win,1,,,122
+2023-05-24,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,1,15,1,bat,win,1,,,
+2013-04-21,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,9,13,field,win,13,,,60
+2021-04-25,"Wankhede Stadium, Mumbai",Mumbai,2,17,2,bat,win,2,,,10
+2013-05-08,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,2,8,field,win,2,,,
+2009-05-21,SuperSport Park,Centurion,14,1,14,field,win,14,,,
+2020-10-18,Dubai International Cricket Stadium,Unknown,1,13,1,bat,tie,,,,107
+2010-03-24,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,6,13,field,win,6,,,
+2025-05-30,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",New Chandigarh,1,16,1,bat,win,1,,,151
+2015-05-08,"MA Chidambaram Stadium, Chepauk",Chennai,2,1,2,bat,win,1,,,134
+2010-03-14,"MA Chidambaram Stadium, Chepauk",Chennai,2,18,18,bat,win,18,,,
+2017-04-27,M Chinnaswamy Stadium,Bangalore,17,11,11,field,win,11,,,
+2018-05-05,Maharashtra Cricket Association Stadium,Pune,17,2,2,field,win,2,,,10
+2022-04-15,"Brabourne Stadium, Mumbai",Mumbai,,8,8,field,win,8,,,255
+2012-05-18,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,18,6,6,bat,win,18,,,
+2016-04-12,M Chinnaswamy Stadium,Bangalore,17,8,8,field,win,17,,,
+2023-05-26,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,16,1,1,field,win,16,,,54
+2009-05-24,New Wanderers Stadium,Johannesburg,17,18,17,field,win,18,,,
+2020-10-04,Dubai International Cricket Stadium,Unknown,13,2,13,bat,win,2,,,
+2014-05-19,Feroz Shah Kotla,Delhi,14,13,13,field,win,13,,,43
+2008-05-28,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,6,6,field,win,13,,,
+2014-05-11,Barabati Stadium,Cuttack,13,,,field,win,,,,
+2020-10-09,Sharjah Cricket Stadium,Unknown,3,6,6,field,win,3,,,189
+2020-09-30,Dubai International Cricket Stadium,Unknown,,6,6,field,win,,,,131
+2020-10-07,Sheikh Zayed Stadium,Abu Dhabi,,2,,bat,win,,,,255
+2025-04-12,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,5,8,5,bat,win,8,,,238
+2012-05-06,M Chinnaswamy Stadium,Bangalore,17,18,17,field,win,17,,,
+2025-03-23,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,8,6,6,field,win,8,,,142
+2013-05-26,Eden Gardens,Kolkata,2,1,1,bat,win,1,,,
+2023-04-29,"Eden Gardens, Kolkata",Kolkata,,16,16,field,win,16,,,
+2011-05-04,"MA Chidambaram Stadium, Chepauk",Chennai,2,6,6,bat,win,2,,,
+2016-05-24,M Chinnaswamy Stadium,Bangalore,11,17,17,field,win,17,,,
+2009-05-01,Kingsmead,Durban,17,13,17,bat,win,17,,,
+2012-04-10,M Chinnaswamy Stadium,Bangalore,17,,17,field,win,,,,
+2016-05-05,Feroz Shah Kotla,Delhi,14,12,12,field,win,12,,,16
+2018-04-21,M.Chinnaswamy Stadium,Bengaluru,14,17,17,field,win,17,,,
+2010-04-13,Brabourne Stadium,Mumbai,1,14,1,bat,win,1,,,
+2009-04-29,Kingsmead,Durban,17,,,bat,win,17,,,
+2019-04-29,Rajiv Gandhi International Stadium,Hyderabad,8,13,13,field,win,8,,,50
+2011-04-12,M Chinnaswamy Stadium,Bangalore,17,1,1,field,win,1,,,
+2015-05-16,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,2,13,bat,win,2,,,
+2018-05-03,Eden Gardens,Kolkata,2,,,field,win,,,,88
+2009-04-20,St George's Park,Port Elizabeth,17,2,2,bat,win,2,,,
+2009-04-30,SuperSport Park,Centurion,2,6,6,field,win,2,,,
+2019-03-23,MA Chidambaram Stadium,Chennai,17,2,2,field,win,2,,,
+2009-04-24,Kingsmead,Durban,17,13,17,bat,win,13,,,
+2019-04-15,Wankhede Stadium,Mumbai,17,1,1,field,win,1,,,
+2008-05-21,"MA Chidambaram Stadium, Chepauk",Chennai,2,17,17,bat,win,17,,,
+2008-05-07,Dr DY Patil Sports Academy,Mumbai,1,6,1,field,win,1,,,
+2009-05-09,De Beers Diamond Oval,Kimberley,2,6,6,bat,win,2,,,
+2024-04-21,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,5,16,5,bat,win,16,,,66
+2016-05-14,Eden Gardens,Kolkata,,12,12,bat,win,,,,
+2016-05-11,M Chinnaswamy Stadium,Bangalore,17,1,1,field,win,1,,,122
+2020-10-18,Sheikh Zayed Stadium,Abu Dhabi,,8,8,field,tie,,,,218
+2025-03-30,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,8,3,8,bat,win,3,,,101
+2011-05-07,Eden Gardens,Kolkata,,2,2,bat,win,,,,
+2013-05-18,Himachal Pradesh Cricket Association Stadium,Dharamsala,13,1,1,field,win,13,,,
+2016-04-18,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,1,8,field,win,8,,,50
+2013-04-10,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,2,2,field,win,2,,,
+2025-03-30,"Barsapara Cricket Stadium, Guwahati",Guwahati,6,2,2,field,win,6,,,93
+2009-04-28,SuperSport Park,Centurion,14,6,14,bat,win,6,,,
+2019-04-05,M.Chinnaswamy Stadium,Bengaluru,17,,,field,win,,,,95
+2018-05-16,Wankhede Stadium,Mumbai,1,13,13,field,win,1,,,136
+2021-04-21,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,5,8,5,bat,win,8,,,164
+2013-04-16,M Chinnaswamy Stadium,Bangalore,17,14,17,field,tie,,,,223
+2023-04-22,"Wankhede Stadium, Mumbai",Mumbai,5,1,1,field,win,5,,,166
+2015-05-15,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,17,8,bat,win,17,,,223
+2016-05-13,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,1,13,1,bat,win,13,,,126
+2012-04-17,M Chinnaswamy Stadium,Bangalore,17,9,9,bat,win,17,,,
+2014-05-08,"Sardar Patel Stadium, Motera",Ahmedabad,6,8,6,field,win,8,,,246
+2018-04-10,MA Chidambaram Stadium,Chennai,,2,2,field,win,2,,,
+2017-04-18,Saurashtra Cricket Association Stadium,Rajkot,11,17,11,field,win,17,,,
+2025-04-12,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,16,15,15,field,win,15,,,248
+2023-04-06,"Eden Gardens, Kolkata",Kolkata,,17,17,field,win,,,,24
+2025-04-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,8,16,16,field,win,16,,,226
+2022-03-29,"Maharashtra Cricket Association Stadium, Pune",Pune,6,8,8,field,win,6,,,187
+2014-05-24,Eden Gardens,Kolkata,,8,,field,win,,,,
+2011-04-30,Nehru Stadium,Kochi,10,14,14,bat,win,14,,,
+2019-04-30,M.Chinnaswamy Stadium,Bengaluru,17,6,6,field,no result,,,,
+2010-03-25,"Brabourne Stadium, Mumbai",Mumbai,2,1,1,field,win,1,,,
+2022-04-25,"Wankhede Stadium, Mumbai",Mumbai,5,2,2,field,win,5,,,162
+2009-05-10,New Wanderers Stadium,Johannesburg,14,,14,field,win,14,,,118
+2014-04-19,Dubai International Cricket Stadium,Unknown,17,1,17,field,win,17,,,
+2024-03-27,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,8,1,1,field,win,8,,,238
+2022-05-01,"Wankhede Stadium, Mumbai",Mumbai,15,3,15,bat,win,15,,,119
+2015-05-12,Shaheed Veer Narayan Singh International Stadium,Raipur,14,2,2,bat,win,14,,,
+2021-09-26,Dubai International Cricket Stadium,Dubai,17,1,1,field,win,17,,,225
+2025-04-05,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,3,2,3,bat,win,3,,,107
+2018-04-16,Eden Gardens,Kolkata,,14,14,field,win,,,,93
+2017-05-19,M Chinnaswamy Stadium,Bangalore,1,,1,field,win,1,,,231
+2014-06-01,M Chinnaswamy Stadium,Bangalore,,13,,field,win,,,,89
+2012-04-14,Subrata Roy Sahara Stadium,Pune,9,2,2,bat,win,9,,,
+2015-04-24,"Sardar Patel Stadium, Motera",Ahmedabad,6,17,17,field,win,17,,,101
+2021-04-18,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,17,,17,bat,win,17,,,
+2017-05-11,Wankhede Stadium,Mumbai,1,13,1,field,win,13,,,65
+2014-05-23,Wankhede Stadium,Mumbai,1,14,14,field,win,1,,,
+2013-05-03,Eden Gardens,Kolkata,,6,6,bat,win,,,,
+2011-04-20,Wankhede Stadium,Mumbai,1,9,9,bat,win,1,,,
+2015-04-25,Wankhede Stadium,Mumbai,1,8,1,bat,win,1,,,
+2019-03-30,Arun Jaitley Stadium,Delhi,,3,3,field,tie,,,,47
+2011-05-01,"MA Chidambaram Stadium, Chepauk",Chennai,2,18,2,bat,win,2,,,
+2015-04-11,"MA Chidambaram Stadium, Chepauk",Chennai,2,8,2,bat,win,2,,,
+2024-04-27,"Arun Jaitley Stadium, Delhi",Delhi,3,1,1,field,win,3,,,34
+2025-03-23,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,1,2,2,field,win,2,,,63
+2013-05-12,Sawai Mansingh Stadium,Jaipur,6,2,6,field,win,6,,,
+2019-05-12,Rajiv Gandhi International Stadium,Hyderabad,1,2,1,bat,win,1,,,136
+2013-04-12,Feroz Shah Kotla,Delhi,14,8,14,bat,win,8,,,118
+2022-05-06,"Brabourne Stadium, Mumbai",Mumbai,1,16,16,field,win,1,,,139
+2012-05-10,Sawai Mansingh Stadium,Jaipur,6,2,2,field,win,2,,,
+2021-04-18,"Wankhede Stadium, Mumbai",Mumbai,5,3,3,field,win,3,,,162
+2012-04-29,Feroz Shah Kotla,Delhi,14,6,14,bat,win,14,,,
+2022-04-02,"Maharashtra Cricket Association Stadium, Pune",Pune,16,3,3,field,win,16,,,218
+2014-05-22,JSCA International Stadium Complex,Ranchi,2,8,8,field,win,8,,,50
+2025-03-31,"Wankhede Stadium, Mumbai",Mumbai,,1,1,field,win,1,,,
+2012-05-04,"MA Chidambaram Stadium, Chepauk",Chennai,2,18,2,bat,win,2,,,
+2013-04-20,Eden Gardens,Kolkata,,2,,bat,win,2,,,10
+2018-04-14,Eden Gardens,Kolkata,,8,8,field,win,8,,,
+2020-10-14,Dubai International Cricket Stadium,Unknown,3,6,3,bat,win,3,,,41
+2014-05-10,Wankhede Stadium,Mumbai,1,2,2,field,win,2,,,
+2024-04-21,"Eden Gardens, Kolkata",Kolkata,,7,7,field,win,,,,95
+2015-04-23,Feroz Shah Kotla,Delhi,14,1,1,field,win,14,,,81
+2021-09-22,Dubai International Cricket Stadium,Dubai,8,3,8,bat,win,3,,,41
+2017-04-11,Maharashtra Cricket Association Stadium,Pune,19,14,19,field,win,14,,,187
+2011-05-25,Wankhede Stadium,Mumbai,1,,1,field,win,1,,,
+2014-04-27,Sharjah Cricket Stadium,Unknown,14,1,1,bat,win,14,,,
+2024-04-05,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,2,8,8,field,win,8,,,238
+2024-05-04,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,16,7,7,field,win,7,,,226
+2020-10-10,Dubai International Cricket Stadium,Unknown,17,2,17,bat,win,17,,,223
+2019-04-18,Arun Jaitley Stadium,Delhi,1,3,1,bat,win,1,,,134
+2012-04-11,Wankhede Stadium,Mumbai,1,6,6,field,win,1,,,
+2010-03-27,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,,,bat,win,,,,
+2013-04-15,"MA Chidambaram Stadium, Chepauk",Chennai,2,9,9,bat,win,9,,,
+2009-05-10,St George's Park,Port Elizabeth,17,1,1,bat,win,1,,,
+2010-04-05,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,18,6,6,bat,win,6,,,
+2013-05-22,Feroz Shah Kotla,Delhi,6,8,8,bat,win,6,,,
+2012-04-05,Eden Gardens,Kolkata,,14,14,field,win,14,,,
+2021-04-17,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,1,8,1,bat,win,1,,,
+2022-04-27,"Wankhede Stadium, Mumbai",Mumbai,8,16,16,field,win,16,,,256
+2008-05-26,Sawai Mansingh Stadium,Jaipur,6,1,6,field,win,6,,,
+2011-05-18,"MA Chidambaram Stadium, Chepauk",Chennai,2,10,2,bat,win,2,,,65
+2025-05-02,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,16,8,8,field,win,16,,,209
+2023-04-30,"Wankhede Stadium, Mumbai",Mumbai,6,1,6,bat,win,1,,,198
+2012-05-17,Feroz Shah Kotla,Delhi,14,17,14,field,win,17,,,
+2023-04-21,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,8,2,2,field,win,2,,,10
+2024-05-21,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,8,,8,bat,win,,,,101
+2018-04-07,Wankhede Stadium,Mumbai,1,2,2,field,win,2,,,
+2012-05-11,Subrata Roy Sahara Stadium,Pune,9,17,9,field,win,17,,,
+2019-04-26,MA Chidambaram Stadium,Chennai,1,2,2,field,win,1,,,151
+2010-04-25,Dr DY Patil Sports Academy,Mumbai,2,1,2,bat,win,2,,,
+2018-05-19,Sawai Mansingh Stadium,Jaipur,6,17,6,bat,win,6,,,141
+2015-04-29,M Chinnaswamy Stadium,Bangalore,17,6,6,field,no result,,,,
+2021-09-30,Sharjah Cricket Stadium,Sharjah,8,2,2,field,win,2,,,
+2022-04-10,"Wankhede Stadium, Mumbai",Mumbai,6,15,15,field,win,6,,,194
+2021-04-11,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,,8,8,field,win,,,,93
+2008-05-10,"MA Chidambaram Stadium, Chepauk",Chennai,2,13,13,field,win,2,,,
+2022-04-01,"Wankhede Stadium, Mumbai",Mumbai,5,,,field,win,,,,78
+2022-04-26,"Maharashtra Cricket Association Stadium, Pune",Pune,6,17,17,field,win,6,,,203
+2008-05-09,Sawai Mansingh Stadium,Jaipur,6,18,6,field,win,6,,,
+2025-04-08,"Eden Gardens, Kolkata",Kolkata,15,,,field,win,15,,,123
+2010-03-21,Barabati Stadium,Cuttack,18,14,18,bat,win,18,,,
+2025-03-27,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,8,15,15,field,win,15,,,24
+2022-05-19,"Wankhede Stadium, Mumbai",Mumbai,16,17,16,bat,win,17,,,223
+2023-05-19,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,5,6,6,field,win,6,,,121
+2020-10-08,Dubai International Cricket Stadium,Unknown,8,13,8,bat,win,8,,,164
+2012-05-08,Subrata Roy Sahara Stadium,Pune,9,6,9,bat,win,6,,,
+2021-04-09,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,1,17,17,field,win,17,,,173
+2018-05-09,Eden Gardens,Kolkata,1,,,field,win,1,,,142
+2025-04-08,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,5,2,5,bat,win,5,,,
+2013-04-14,Eden Gardens,Kolkata,,8,,bat,win,,,,
+2011-05-12,"MA Chidambaram Stadium, Chepauk",Chennai,2,14,2,bat,win,2,,,6
+2022-04-23,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,16,,16,bat,win,16,,,64
+2024-04-27,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,15,6,6,field,win,6,,,187
+2011-05-03,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,18,,18,field,win,,,,
+2023-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,1,8,8,field,win,1,,,219
+2008-05-23,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,18,13,field,win,13,,,
+2011-04-25,"MA Chidambaram Stadium, Chepauk",Chennai,2,9,9,field,win,2,,,
+2021-10-02,Sharjah Cricket Stadium,Sharjah,1,3,3,field,win,3,,,43
+2014-05-13,M Chinnaswamy Stadium,Bangalore,17,14,14,field,win,17,,,
+2012-05-23,M Chinnaswamy Stadium,Bangalore,2,1,1,field,win,2,,,6
+2013-05-12,JSCA International Stadium Complex,Ranchi,,17,,field,win,,,,
+2013-05-16,Himachal Pradesh Cricket Association Stadium,Dharamsala,13,14,14,field,win,13,,,60
+2012-04-25,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,1,13,bat,win,1,,,
+2024-05-22,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,7,6,6,field,win,6,,,189
+2008-05-01,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,18,13,13,field,win,13,,,
+2013-04-04,M Chinnaswamy Stadium,Bangalore,17,1,1,field,win,17,,,
+2012-04-28,Eden Gardens,Kolkata,,17,,bat,win,,,,
+2016-04-27,Feroz Shah Kotla,Delhi,14,11,14,field,win,11,,,
+2012-05-12,"MA Chidambaram Stadium, Chepauk",Chennai,2,14,2,field,win,2,,,
+2017-04-19,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,14,8,bat,win,8,,,76
+2018-04-21,Eden Gardens,Kolkata,,13,13,field,win,13,,,107
+2014-04-20,Sharjah Cricket Stadium,Unknown,6,13,13,field,win,13,,,225
+2015-04-22,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,8,,,field,win,8,,,50
+2011-05-08,M Chinnaswamy Stadium,Bangalore,17,10,10,bat,win,17,,,
+2018-05-08,Sawai Mansingh Stadium,Jaipur,6,13,6,bat,win,6,,,193
+2023-05-10,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,2,3,2,bat,win,2,,,10
+2015-05-11,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,13,8,bat,win,8,,,50
+2013-04-17,Maharashtra Cricket Association Stadium,Pune,9,8,9,field,win,8,,,118
+2023-05-01,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,17,15,17,bat,win,17,,,211
+2010-04-19,Eden Gardens,Kolkata,,1,1,bat,win,,,,
+2024-05-08,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,15,8,15,bat,win,8,,,243
+2024-04-14,"Eden Gardens, Kolkata",Kolkata,15,,,field,win,,,,99
+2012-05-15,Feroz Shah Kotla,Delhi,14,13,13,bat,win,14,,,78
+2013-04-13,"MA Chidambaram Stadium, Chepauk",Chennai,2,17,2,field,win,2,,,10
+2021-10-04,Dubai International Cricket Stadium,Dubai,2,3,3,field,win,3,,,43
+2015-05-03,Brabourne Stadium,Mumbai,6,14,14,field,win,6,,,16
+2016-05-04,Eden Gardens,Kolkata,,13,13,field,win,,,,95
+2013-05-05,Sawai Mansingh Stadium,Jaipur,6,9,9,bat,win,6,,,16
+2021-04-27,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,17,3,3,field,win,17,,,
+2008-05-08,Eden Gardens,Kolkata,,17,,bat,win,,,,
+2022-04-22,"Wankhede Stadium, Mumbai",Mumbai,6,3,3,field,win,6,,,193
+2020-10-01,Sheikh Zayed Stadium,Abu Dhabi,1,13,13,field,win,1,,,
+2009-04-25,Kingsmead,Durban,18,1,18,bat,win,18,,,
+2011-05-13,Holkar Cricket Stadium,Indore,10,13,13,field,win,13,,,222
+2012-04-22,Barabati Stadium,Cuttack,18,,,field,win,,,,
+2016-04-13,Eden Gardens,Kolkata,,1,1,field,win,1,,,151
+2016-04-17,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,13,12,12,bat,win,13,,,
+2019-04-20,Arun Jaitley Stadium,Delhi,13,3,3,field,win,3,,,81
+2022-03-27,"Brabourne Stadium, Mumbai",Mumbai,1,3,3,field,win,3,,,36
+2018-04-08,Punjab Cricket Association IS Bindra Stadium,Chandigarh,14,13,13,field,win,13,,,107
+2020-10-04,Sharjah Cricket Stadium,Unknown,1,8,1,bat,win,1,,,191
+2025-05-05,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,3,8,8,field,no result,,,,
+2014-05-06,Wankhede Stadium,Mumbai,1,17,17,field,win,1,,,151
+2024-05-18,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,7,2,2,field,win,7,,,211
+2019-03-31,MA Chidambaram Stadium,Chennai,2,6,6,field,win,2,,,6
+2009-04-22,Newlands,Cape Town,17,18,18,bat,win,18,,,
+2012-05-02,M Chinnaswamy Stadium,Bangalore,17,13,13,field,win,13,,,
+2024-05-07,"Arun Jaitley Stadium, Delhi",Delhi,3,6,6,field,win,3,,,36
+2021-09-29,Dubai International Cricket Stadium,Dubai,6,17,17,field,win,17,,,194
+2011-05-10,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,18,9,18,bat,win,9,,,39
+2023-04-05,"Barsapara Cricket Stadium, Guwahati",Guwahati,5,6,6,field,win,5,,,168
+2022-05-16,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,3,5,5,field,win,3,,,24
+2020-10-03,Sheikh Zayed Stadium,Abu Dhabi,6,17,6,bat,win,17,,,194
+2022-04-21,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,1,2,2,field,win,2,,,13
+2023-05-29,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,16,2,2,field,win,2,,,26
+2011-04-10,Dr DY Patil Sports Academy,Mumbai,9,13,13,bat,win,9,,,
+2024-04-20,"Arun Jaitley Stadium, Delhi",Delhi,8,3,3,field,win,8,,,243
+2013-04-28,"MA Chidambaram Stadium, Chepauk",Chennai,2,,,field,win,2,,,
+2018-04-15,Punjab Cricket Association IS Bindra Stadium,Chandigarh,13,2,2,field,win,13,,,
+2019-05-07,MA Chidambaram Stadium,Chennai,2,1,2,bat,win,1,,,158
+2017-04-09,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,11,8,field,win,8,,,64
+2025-04-13,"Sawai Mansingh Stadium, Jaipur",Jaipur,6,7,7,field,win,7,,,99
+2012-04-20,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,17,17,field,win,17,,,
+2018-05-17,M.Chinnaswamy Stadium,Bengaluru,17,8,8,field,win,17,,,
+2017-04-28,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,13,8,13,field,win,8,,,64
+2008-05-02,"MA Chidambaram Stadium, Chepauk",Chennai,2,14,2,bat,win,14,,,
+2012-04-26,Subrata Roy Sahara Stadium,Pune,9,18,18,bat,win,18,,,
+2022-05-11,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,6,3,3,field,win,3,,,39
+2019-04-16,Punjab Cricket Association IS Bindra Stadium,Chandigarh,13,6,6,field,win,13,,,189
+2023-05-12,"Wankhede Stadium, Mumbai",Mumbai,1,16,16,field,win,1,,,158
+2009-05-01,Buffalo Park,East London,,1,1,bat,win,1,,,
+2013-05-21,Feroz Shah Kotla,Delhi,2,1,2,bat,win,2,,,
+2012-04-19,"MA Chidambaram Stadium, Chepauk",Chennai,2,9,9,field,win,2,,,
+2016-04-11,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,13,11,11,field,win,11,,,
+2009-05-05,Kingsmead,Durban,13,6,13,field,win,6,,,
+2024-05-14,"Arun Jaitley Stadium, Delhi",Delhi,3,15,15,field,win,3,,,46
+2023-05-23,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,2,16,16,field,win,2,,,1
+2011-05-24,Wankhede Stadium,Mumbai,17,2,2,field,win,2,,,
+2008-05-28,M Chinnaswamy Stadium,Bangalore,17,1,1,field,win,1,,,
+2009-05-12,SuperSport Park,Centurion,13,1,13,bat,win,1,,,
+2022-04-06,"Maharashtra Cricket Association Stadium, Pune",Pune,1,,,field,win,,,,236
+2023-05-04,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,,8,,bat,win,,,,103
+2017-05-04,Feroz Shah Kotla,Delhi,14,11,14,field,win,14,,,27
+2018-04-18,Sawai Mansingh Stadium,Jaipur,6,,,field,win,,,,93
+2024-04-22,"Sawai Mansingh Stadium, Jaipur",Jaipur,1,6,1,bat,win,6,,,207
+2010-04-01,Eden Gardens,Kolkata,,18,,bat,win,,,,
+2015-04-10,Maharashtra Cricket Association Stadium,Pune,13,6,13,field,win,6,,,
+2019-04-08,Punjab Cricket Association IS Bindra Stadium,Chandigarh,8,13,13,field,win,13,,,107
+2021-04-30,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,5,17,17,field,win,5,,,169
+2009-05-03,New Wanderers Stadium,Johannesburg,17,1,1,bat,win,17,,,
+2017-04-22,Wankhede Stadium,Mumbai,1,14,14,field,win,1,,,
+2015-05-24,Eden Gardens,Kolkata,1,2,2,field,win,1,,,151
+2025-04-13,"Arun Jaitley Stadium, Delhi",Delhi,1,3,3,field,win,1,,,231
+2022-04-30,"Brabourne Stadium, Mumbai",Mumbai,17,16,17,bat,win,16,,,74
+2014-05-18,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,,8,bat,win,,,,78
+2021-05-01,"Arun Jaitley Stadium, Delhi",Delhi,2,1,1,field,win,1,,,
+2009-05-08,Buffalo Park,East London,14,1,1,bat,win,14,,,
+2011-04-09,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,18,6,6,field,win,6,,,
+2013-04-20,M Chinnaswamy Stadium,Bangalore,17,6,17,field,win,17,,,
+2011-05-05,Nehru Stadium,Kochi,10,,,field,win,10,,,
+2016-04-17,M Chinnaswamy Stadium,Bangalore,17,14,14,field,win,14,,,110
+2009-05-11,De Beers Diamond Oval,Kimberley,18,6,18,bat,win,18,,,
+2023-04-23,"Eden Gardens, Kolkata",Kolkata,2,,,field,win,2,,,16
+2019-04-17,Rajiv Gandhi International Stadium,Hyderabad,2,8,2,bat,win,8,,,50
+2008-04-26,"MA Chidambaram Stadium, Chepauk",Chennai,2,,,bat,win,2,,,
+2012-05-17,Himachal Pradesh Cricket Association Stadium,Dharamsala,13,2,13,field,win,13,,,
+2018-04-25,M.Chinnaswamy Stadium,Bengaluru,17,2,2,field,win,2,,,6
+2018-05-11,Sawai Mansingh Stadium,Jaipur,2,6,2,bat,win,6,,,193
+2014-05-21,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,1,1,field,win,1,,,
+2019-03-28,M.Chinnaswamy Stadium,Bengaluru,1,17,17,field,win,1,,,136
+2013-05-13,Wankhede Stadium,Mumbai,1,8,8,bat,win,1,,,
+2009-04-30,SuperSport Park,Centurion,18,14,14,field,win,14,,,
+2021-09-19,Dubai International Cricket Stadium,Dubai,2,1,2,bat,win,2,,,1
+2018-05-15,Eden Gardens,Kolkata,6,,,field,win,,,,36
+2011-05-28,"MA Chidambaram Stadium, Chepauk",Chennai,2,17,2,bat,win,2,,,
+2011-04-24,Sawai Mansingh Stadium,Jaipur,6,10,6,field,win,6,,,
+2014-05-14,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,13,13,field,win,13,,,65
+2008-05-24,Feroz Shah Kotla,Delhi,14,1,14,field,win,14,,,222
+2018-05-18,Arun Jaitley Stadium,Delhi,14,2,2,field,win,14,,,173
+2011-04-26,Feroz Shah Kotla,Delhi,14,17,17,field,win,17,,,223
+2025-05-04,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,5,15,15,field,win,5,,,
+2010-04-10,M Chinnaswamy Stadium,Bangalore,17,,17,field,win,17,,,
+2025-04-10,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,7,3,3,field,win,3,,,107
+2011-04-22,Eden Gardens,Kolkata,,17,17,field,win,17,,,
+2013-05-07,Sawai Mansingh Stadium,Jaipur,6,14,14,bat,win,6,,,16
+2020-09-29,Sheikh Zayed Stadium,Abu Dhabi,8,3,3,field,win,8,,,64
+2014-05-04,M Chinnaswamy Stadium,Bangalore,17,8,17,field,win,17,,,
+2024-04-18,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,1,5,5,field,win,1,,,136
+2018-05-02,Arun Jaitley Stadium,Delhi,14,6,6,field,win,14,,,27
+2023-04-15,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,17,3,3,field,win,17,,,223
+2025-05-23,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,8,7,7,field,win,8,,,142
+2023-05-06,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,1,2,2,field,win,2,,,15
+2018-04-30,Maharashtra Cricket Association Stadium,Pune,2,14,14,field,win,2,,,
+2013-04-22,"MA Chidambaram Stadium, Chepauk",Chennai,2,6,6,bat,win,2,,,
+2008-05-12,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,17,17,bat,win,13,,,
+2015-05-13,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,17,17,field,win,13,,,43
+2021-10-06,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,8,17,17,field,win,8,,,76
+2012-05-10,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,18,14,18,bat,win,14,,,50
+2014-05-02,JSCA International Stadium Complex,Ranchi,2,,2,bat,win,2,,,10
+2013-05-24,Eden Gardens,Kolkata,1,6,6,bat,win,1,,,
+2020-10-16,Sheikh Zayed Stadium,Abu Dhabi,,1,,bat,win,1,,,110
+2022-04-08,"Brabourne Stadium, Mumbai",Mumbai,5,16,16,field,win,16,,,54
+2010-03-17,Feroz Shah Kotla,Delhi,14,1,14,field,win,1,,,
+2019-05-04,Arun Jaitley Stadium,Delhi,6,3,6,bat,win,3,,,118
+2021-04-12,"Wankhede Stadium, Mumbai",Mumbai,5,6,6,field,win,5,,,187
+2010-04-14,Sawai Mansingh Stadium,Jaipur,6,17,6,bat,win,17,,,
+2014-04-27,Sharjah Cricket Stadium,Unknown,8,2,8,bat,win,2,,,
+2010-03-23,M Chinnaswamy Stadium,Bangalore,17,2,2,field,win,17,,,
+2020-11-08,Sheikh Zayed Stadium,Abu Dhabi,3,8,3,bat,win,3,,,126
+2024-03-31,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,8,16,8,bat,win,16,,,72
+2014-05-13,JSCA International Stadium Complex,Ranchi,2,6,6,bat,win,2,,,10
+2017-04-06,Maharashtra Cricket Association Stadium,Pune,19,1,19,field,win,19,,,
+2022-03-31,"Brabourne Stadium, Mumbai",Mumbai,2,15,15,field,win,15,,,
+2009-05-20,Kingsmead,Durban,,6,,field,win,,,,
+2008-04-27,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,14,14,bat,win,13,,,
+2024-05-06,"Wankhede Stadium, Mumbai",Mumbai,8,1,1,field,win,1,,,158
+2015-04-12,Wankhede Stadium,Mumbai,1,13,1,field,win,13,,,
+2022-05-02,"Wankhede Stadium, Mumbai",Mumbai,6,,,field,win,,,,100
+2010-03-30,Brabourne Stadium,Mumbai,1,13,1,field,win,1,,,
+2022-05-08,"Wankhede Stadium, Mumbai",Mumbai,17,8,17,bat,win,17,,,
+2025-05-19,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,15,8,8,field,win,8,,,238
+2023-04-09,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,5,8,8,field,win,8,,,162
+2014-05-11,M Chinnaswamy Stadium,Bangalore,17,6,17,bat,win,6,,,
+2023-04-16,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,16,6,6,field,win,6,,,197
+2019-04-27,Sawai Mansingh Stadium,Jaipur,8,6,6,field,win,6,,,257
+2025-04-27,"Arun Jaitley Stadium, Delhi",Delhi,3,7,7,field,win,7,,,122
+2018-05-13,Maharashtra Cricket Association Stadium,Pune,8,2,2,field,win,2,,,
+2025-05-27,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,15,7,7,field,win,7,,,179
+2019-04-02,Sawai Mansingh Stadium,Jaipur,17,6,6,field,win,6,,,141
+2024-04-12,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,15,3,15,bat,win,3,,,36
+2023-05-20,"Eden Gardens, Kolkata",Kolkata,15,,,field,win,15,,,123
+2018-05-22,Wankhede Stadium,Mumbai,8,2,2,field,win,2,,,211
+2024-04-03,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,,3,,bat,win,,,,88
+2008-05-25,Eden Gardens,Kolkata,,13,13,bat,win,,,,
+2014-04-30,Dubai International Cricket Stadium,Unknown,1,8,1,field,win,8,,,246
+2013-04-18,Feroz Shah Kotla,Delhi,14,2,2,bat,win,2,,,
+2015-04-12,Feroz Shah Kotla,Delhi,14,6,6,field,win,6,,,113
+2019-03-25,Sawai Mansingh Stadium,Jaipur,13,6,6,field,win,13,,,
+2011-04-13,"Punjab Cricket Association Stadium, Mohali",Chandigarh,13,2,13,field,win,13,,,
+2023-04-12,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,6,2,2,field,win,6,,,189
+2025-04-29,"Arun Jaitley Stadium, Delhi",Delhi,,3,3,field,win,,,,88
+2023-04-27,"Sawai Mansingh Stadium, Jaipur",Jaipur,6,2,6,bat,win,6,,,198
+2013-04-29,Sawai Mansingh Stadium,Jaipur,6,17,6,field,win,6,,,187
+2015-05-07,Brabourne Stadium,Mumbai,6,8,6,field,win,8,,,
+2023-04-07,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,8,15,8,bat,win,15,,,122
+2021-09-25,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,3,6,6,field,win,3,,,81
+2010-04-03,Brabourne Stadium,Mumbai,1,18,1,bat,win,1,,,
+2023-05-05,"Sawai Mansingh Stadium, Jaipur",Jaipur,6,16,6,bat,win,16,,,64
+2013-05-17,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,6,8,bat,win,8,,,118
+2019-03-27,Eden Gardens,Kolkata,,13,13,field,win,,,,95
+2022-04-11,"Dr DY Patil Sports Academy, Mumbai",Mumbai,16,8,8,field,win,8,,,76
+2011-04-29,M Chinnaswamy Stadium,Bangalore,17,9,9,field,win,17,,,223
+2008-05-25,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,18,17,18,bat,win,17,,,
+2013-04-13,Wankhede Stadium,Mumbai,1,9,1,bat,win,1,,,151
+2016-04-26,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,8,12,12,field,win,12,,,
+2018-04-15,M.Chinnaswamy Stadium,Bengaluru,6,17,17,field,win,6,,,187
+2022-05-05,"Brabourne Stadium, Mumbai",Mumbai,3,8,8,field,win,3,,,50
+2015-05-01,Feroz Shah Kotla,Delhi,14,13,14,field,win,14,,,
+2009-04-23,Newlands,Cape Town,,6,,field,tie,,,,
+2019-05-01,MA Chidambaram Stadium,Chennai,2,3,3,field,win,2,,,6
+2016-04-09,Wankhede Stadium,Mumbai,1,12,1,bat,win,12,,,16
+2017-04-13,Eden Gardens,Kolkata,,13,,field,win,,,,88
+2013-05-07,Wankhede Stadium,Mumbai,1,,1,bat,win,1,,,
+2019-04-19,Eden Gardens,Kolkata,17,,,field,win,17,,,223
+2019-04-28,Arun Jaitley Stadium,Delhi,3,17,3,bat,win,3,,,162
+2013-05-05,Wankhede Stadium,Mumbai,1,2,1,bat,win,1,,,
+2024-03-22,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,7,2,7,bat,win,2,,,14
+2022-04-17,"Dr DY Patil Sports Academy, Mumbai",Mumbai,5,8,8,field,win,8,,,256
+2017-05-14,Feroz Shah Kotla,Delhi,14,17,17,bat,win,17,,,173
+2024-04-07,"Wankhede Stadium, Mumbai",Mumbai,1,3,3,field,win,1,,,152
+2016-05-03,Saurashtra Cricket Association Stadium,Rajkot,11,14,14,field,win,14,,,27
+2024-05-03,"Wankhede Stadium, Mumbai",Mumbai,,1,1,field,win,,,,87
+2018-05-19,Rajiv Gandhi International Stadium,Hyderabad,8,,8,bat,win,,,,
+2024-03-29,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,7,,,field,win,,,,88
+2016-05-08,Eden Gardens,Kolkata,,11,11,field,win,11,,,
+2014-05-30,Wankhede Stadium,Mumbai,2,13,2,field,win,13,,,

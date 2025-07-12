@@ -49,3 +49,19 @@ CREATE TABLE Match_Players (
     player_id INT REFERENCES Players(player_id),
     is_playing BOOLEAN DEFAULT TRUE
 );
+
+
+-- \copy Players(name, batting_name, fielding_name, img_url, dob, batting_style, bowling_style) FROM 'C:/Users/hp/Desktop/IPL/notebooks/EDA/cleaned_players.csv' DELIMITER ',' CSV HEADER;
+
+-- \copy Teams(name, logo_url) FROM 'C:/Users/hp/Desktop/IPL/notebooks/EDA/cleaned_team.csv' DELIMITER ',' CSV HEADER;
+
+-- SELECT column_name, data_type 
+-- FROM information_schema.columns 
+-- WHERE table_name = 'players';
+
+ALTER TABLE players ADD COLUMN display_name VARCHAR(150);
+
+ALTER TABLE Matches RENAME COLUMN team2 TO team2_id;
+
+
+\copy Matches(date, venue, city, team1_id, team2_id, toss_winner_id, toss_decision, outcome, winner_id, win_margin, win_type, player_of_match) FROM 'C:/Users/hp/Desktop/IPL/notebooks/EDA/cleaned_matches.csv' DELIMITER ',' CSV HEADER;
