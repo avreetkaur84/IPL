@@ -1,0 +1,2 @@
+SELECT COUNT(*) FROM matches WHERE winner_id IS NULL;
+SELECT COUNT(*) FROM matches WHERE city IS NULL;
